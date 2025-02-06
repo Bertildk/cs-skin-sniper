@@ -1,0 +1,3074 @@
+[
+    {
+        "time": "2:9",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "2:14",
+        "amount_of_new_items_found": 10
+    },
+    {
+        "time": "2:18",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "2:21",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "2:25",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "2:29",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "2:33",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "2:36",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "2:40",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "2:43",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "2:47",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "2:50",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "2:54",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "2:58",
+        "amount_of_new_items_found": 18
+    },
+    {
+        "time": "3:1",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "3:5",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "3:8",
+        "amount_of_new_items_found": 8
+    },
+    {
+        "time": "3:12",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "3:15",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "3:19",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "3:22",
+        "amount_of_new_items_found": 7
+    },
+    {
+        "time": "3:26",
+        "amount_of_new_items_found": 10
+    },
+    {
+        "time": "3:30",
+        "amount_of_new_items_found": 9
+    },
+    {
+        "time": "3:33",
+        "amount_of_new_items_found": 132
+    },
+    {
+        "time": "3:36",
+        "amount_of_new_items_found": 13
+    },
+    {
+        "time": "3:40",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "3:44",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "3:47",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "3:51",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "3:54",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "3:58",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "4:1",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "4:5",
+        "amount_of_new_items_found": 7
+    },
+    {
+        "time": "4:9",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "4:12",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "4:16",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "4:19",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "4:23",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "4:26",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "4:30",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "4:33",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "4:37",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "4:41",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "4:44",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "4:48",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "4:51",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "4:55",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "4:58",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "5:2",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "5:5",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "5:9",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "5:12",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "5:16",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "5:20",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "5:23",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "5:27",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "5:30",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "5:34",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "5:37",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "5:41",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "5:44",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "5:48",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "5:52",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "5:55",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "5:59",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "6:2",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "6:6",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "6:9",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "6:13",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "6:16",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "6:20",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "6:23",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "6:27",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "6:31",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "6:34",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "6:38",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "6:41",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "6:45",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "6:48",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "6:52",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "6:55",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "6:59",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "7:3",
+        "amount_of_new_items_found": 7
+    },
+    {
+        "time": "7:6",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "7:10",
+        "amount_of_new_items_found": 7
+    },
+    {
+        "time": "7:13",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "7:17",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "7:20",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "7:24",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "7:27",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "7:31",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "7:34",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "7:38",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "7:42",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "7:45",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "7:49",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "7:52",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "7:56",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "7:59",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "8:3",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "8:6",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "8:10",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "8:14",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "8:17",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "8:21",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "8:24",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "8:28",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "8:31",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "8:35",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "8:38",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "8:42",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "8:45",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "8:49",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "8:53",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "8:56",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "9:0",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "9:3",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "9:7",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "9:10",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "9:14",
+        "amount_of_new_items_found": 11
+    },
+    {
+        "time": "9:17",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "9:21",
+        "amount_of_new_items_found": 8
+    },
+    {
+        "time": "9:25",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "9:28",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "9:32",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "9:35",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "9:39",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "9:42",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "9:46",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "9:49",
+        "amount_of_new_items_found": 20
+    },
+    {
+        "time": "9:53",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "9:56",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "10:0",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "10:4",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "10:7",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "10:11",
+        "amount_of_new_items_found": 9
+    },
+    {
+        "time": "10:14",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "10:18",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "10:21",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "10:25",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "10:28",
+        "amount_of_new_items_found": 7
+    },
+    {
+        "time": "10:32",
+        "amount_of_new_items_found": 438
+    },
+    {
+        "time": "10:36",
+        "amount_of_new_items_found": 901
+    },
+    {
+        "time": "10:39",
+        "amount_of_new_items_found": 424
+    },
+    {
+        "time": "10:43",
+        "amount_of_new_items_found": 641
+    },
+    {
+        "time": "10:46",
+        "amount_of_new_items_found": 2797
+    },
+    {
+        "time": "10:49",
+        "amount_of_new_items_found": 513
+    },
+    {
+        "time": "10:51",
+        "amount_of_new_items_found": 311
+    },
+    {
+        "time": "10:52",
+        "amount_of_new_items_found": 130
+    },
+    {
+        "time": "10:53",
+        "amount_of_new_items_found": 163
+    },
+    {
+        "time": "10:56",
+        "amount_of_new_items_found": 952
+    },
+    {
+        "time": "10:57",
+        "amount_of_new_items_found": 974
+    },
+    {
+        "time": "10:57",
+        "amount_of_new_items_found": 991
+    },
+    {
+        "time": "10:57",
+        "amount_of_new_items_found": 80
+    },
+    {
+        "time": "10:59",
+        "amount_of_new_items_found": 218
+    },
+    {
+        "time": "10:59",
+        "amount_of_new_items_found": 218
+    },
+    {
+        "time": "11:0",
+        "amount_of_new_items_found": 218
+    },
+    {
+        "time": "11:0",
+        "amount_of_new_items_found": 218
+    },
+    {
+        "time": "11:1",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "11:2",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "11:2",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "11:2",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "11:4",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "11:5",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "11:6",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "11:7",
+        "amount_of_new_items_found": 12
+    },
+    {
+        "time": "11:9",
+        "amount_of_new_items_found": 11
+    },
+    {
+        "time": "11:11",
+        "amount_of_new_items_found": 7
+    },
+    {
+        "time": "11:12",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "11:14",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "11:16",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "11:17",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "11:19",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "11:20",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "11:22",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "11:23",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "11:25",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "11:26",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "11:28",
+        "amount_of_new_items_found": 794
+    },
+    {
+        "time": "11:29",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "11:31",
+        "amount_of_new_items_found": 78
+    },
+    {
+        "time": "11:32",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "11:34",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "11:35",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "11:37",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "11:38",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "11:40",
+        "amount_of_new_items_found": 93
+    },
+    {
+        "time": "11:41",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "11:43",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "11:44",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "11:46",
+        "amount_of_new_items_found": 11
+    },
+    {
+        "time": "11:47",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "11:49",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "11:50",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "11:52",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "11:53",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "11:55",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "11:56",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "11:58",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "11:59",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "12:1",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "12:2",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "12:4",
+        "amount_of_new_items_found": 10
+    },
+    {
+        "time": "12:5",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "12:7",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "12:8",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "12:10",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "12:11",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "12:13",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "12:14",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "12:16",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "12:17",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "12:19",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "12:20",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "12:22",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "12:23",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "12:25",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "12:26",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "12:28",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "12:29",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "12:31",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "12:32",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "12:34",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "12:35",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "12:37",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "12:38",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "12:40",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "12:41",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "12:43",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "12:44",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "12:46",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "12:47",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "12:48",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "12:50",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "12:51",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "12:52",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "12:54",
+        "amount_of_new_items_found": 88
+    },
+    {
+        "time": "12:55",
+        "amount_of_new_items_found": 22
+    },
+    {
+        "time": "12:57",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "12:58",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "13:0",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "13:1",
+        "amount_of_new_items_found": 69
+    },
+    {
+        "time": "13:3",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "13:4",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "13:6",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "13:7",
+        "amount_of_new_items_found": 22
+    },
+    {
+        "time": "13:9",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "13:10",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "13:12",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "13:13",
+        "amount_of_new_items_found": 7
+    },
+    {
+        "time": "13:15",
+        "amount_of_new_items_found": 9
+    },
+    {
+        "time": "13:16",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "13:18",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "13:20",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "13:21",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "13:23",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "13:24",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "13:26",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "13:27",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "13:29",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "13:30",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "13:32",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "13:33",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "13:35",
+        "amount_of_new_items_found": 301
+    },
+    {
+        "time": "13:36",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "13:38",
+        "amount_of_new_items_found": 11
+    },
+    {
+        "time": "13:39",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "13:41",
+        "amount_of_new_items_found": 8
+    },
+    {
+        "time": "13:42",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "13:44",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "13:45",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "13:47",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "13:48",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "13:50",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "13:51",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "13:53",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "13:54",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "13:56",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "13:57",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "13:59",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "14:0",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "14:2",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "14:3",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "14:5",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "14:6",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "14:8",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "14:9",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "14:11",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "14:12",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "14:14",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "14:15",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "14:17",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "14:18",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "14:20",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "14:21",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "14:23",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "14:24",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "14:25",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "14:27",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "14:28",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "14:30",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "14:31",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "14:33",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "14:34",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "14:36",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "14:37",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "14:39",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "14:40",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "14:42",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "14:43",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "14:45",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "14:46",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "14:47",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "14:49",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "14:51",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "14:52",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "14:53",
+        "amount_of_new_items_found": 124
+    },
+    {
+        "time": "14:55",
+        "amount_of_new_items_found": 8
+    },
+    {
+        "time": "14:57",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "14:58",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "14:59",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "15:1",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "15:2",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "15:4",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "15:5",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "15:7",
+        "amount_of_new_items_found": 13
+    },
+    {
+        "time": "15:8",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "15:10",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "15:11",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "15:13",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "15:14",
+        "amount_of_new_items_found": 7
+    },
+    {
+        "time": "15:16",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "15:17",
+        "amount_of_new_items_found": 58
+    },
+    {
+        "time": "15:28",
+        "amount_of_new_items_found": 27
+    },
+    {
+        "time": "15:31",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "15:32",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "15:33",
+        "amount_of_new_items_found": 38
+    },
+    {
+        "time": "15:45",
+        "amount_of_new_items_found": 19
+    },
+    {
+        "time": "15:49",
+        "amount_of_new_items_found": 39
+    },
+    {
+        "time": "15:51",
+        "amount_of_new_items_found": 8
+    },
+    {
+        "time": "15:52",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "15:54",
+        "amount_of_new_items_found": 7
+    },
+    {
+        "time": "15:56",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "16:1",
+        "amount_of_new_items_found": 13
+    },
+    {
+        "time": "16:5",
+        "amount_of_new_items_found": 23
+    },
+    {
+        "time": "16:8",
+        "amount_of_new_items_found": 9
+    },
+    {
+        "time": "16:12",
+        "amount_of_new_items_found": 15
+    },
+    {
+        "time": "16:15",
+        "amount_of_new_items_found": 17
+    },
+    {
+        "time": "16:19",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "16:23",
+        "amount_of_new_items_found": 31
+    },
+    {
+        "time": "16:27",
+        "amount_of_new_items_found": 7
+    },
+    {
+        "time": "16:31",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "16:34",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "16:38",
+        "amount_of_new_items_found": 14
+    },
+    {
+        "time": "16:42",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "16:46",
+        "amount_of_new_items_found": 11
+    },
+    {
+        "time": "16:50",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "16:54",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "16:57",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "17:1",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "17:5",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "17:9",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "20:38",
+        "amount_of_new_items_found": 1218
+    },
+    {
+        "time": "20:41",
+        "amount_of_new_items_found": 10
+    },
+    {
+        "time": "3:48",
+        "amount_of_new_items_found": 2533
+    },
+    {
+        "time": "3:51",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "3:54",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "3:57",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "4:0",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "4:4",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "4:7",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "4:10",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "4:13",
+        "amount_of_new_items_found": 8
+    },
+    {
+        "time": "4:16",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "4:20",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "4:23",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "4:26",
+        "amount_of_new_items_found": 16
+    },
+    {
+        "time": "4:29",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "4:32",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "4:35",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "4:38",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "4:42",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "4:45",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "4:48",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "4:51",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "4:54",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "4:57",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "5:0",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "5:4",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "5:7",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "5:10",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "5:13",
+        "amount_of_new_items_found": 11
+    },
+    {
+        "time": "5:16",
+        "amount_of_new_items_found": 10
+    },
+    {
+        "time": "5:19",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "5:22",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "5:26",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "5:29",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "5:32",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "5:35",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "5:38",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "5:41",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "5:44",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "5:48",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "5:51",
+        "amount_of_new_items_found": 8
+    },
+    {
+        "time": "5:54",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "5:57",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "6:0",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "6:3",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "6:6",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "6:10",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "6:13",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "6:16",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "6:19",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "6:22",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "6:25",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "6:29",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "6:32",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "6:35",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "6:38",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "6:41",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "6:44",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "6:47",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "6:51",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "6:54",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "6:57",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "7:0",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "7:3",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "7:6",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "7:9",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "7:13",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "7:16",
+        "amount_of_new_items_found": 17
+    },
+    {
+        "time": "7:19",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "7:22",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "7:25",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "7:28",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "7:31",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "7:35",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "7:38",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "7:41",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "7:44",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "7:47",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "7:50",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "7:53",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "7:57",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "8:0",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "8:3",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "8:6",
+        "amount_of_new_items_found": 120
+    },
+    {
+        "time": "8:9",
+        "amount_of_new_items_found": 1088
+    },
+    {
+        "time": "8:12",
+        "amount_of_new_items_found": 181
+    },
+    {
+        "time": "8:16",
+        "amount_of_new_items_found": 928
+    },
+    {
+        "time": "8:19",
+        "amount_of_new_items_found": 4373
+    },
+    {
+        "time": "8:22",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "8:25",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "8:28",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "8:31",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "8:34",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "8:37",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "8:41",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "8:44",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "8:47",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "8:50",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "8:53",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "8:56",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "8:59",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "9:3",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "9:6",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "9:9",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "9:12",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "9:15",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "9:18",
+        "amount_of_new_items_found": 12
+    },
+    {
+        "time": "9:21",
+        "amount_of_new_items_found": 632
+    },
+    {
+        "time": "9:25",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "9:28",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "9:31",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "9:34",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "9:37",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "9:40",
+        "amount_of_new_items_found": 7
+    },
+    {
+        "time": "9:43",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "9:47",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "9:50",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "9:53",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "9:56",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "9:59",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "10:2",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "10:5",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "10:9",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "10:12",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "10:15",
+        "amount_of_new_items_found": 7
+    },
+    {
+        "time": "10:18",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "10:21",
+        "amount_of_new_items_found": 13
+    },
+    {
+        "time": "10:24",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "10:27",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "10:31",
+        "amount_of_new_items_found": 192
+    },
+    {
+        "time": "10:34",
+        "amount_of_new_items_found": 4923
+    },
+    {
+        "time": "10:37",
+        "amount_of_new_items_found": 661
+    },
+    {
+        "time": "10:40",
+        "amount_of_new_items_found": 691
+    },
+    {
+        "time": "10:43",
+        "amount_of_new_items_found": 569
+    },
+    {
+        "time": "10:46",
+        "amount_of_new_items_found": 588
+    },
+    {
+        "time": "10:50",
+        "amount_of_new_items_found": 529
+    },
+    {
+        "time": "10:53",
+        "amount_of_new_items_found": 16
+    },
+    {
+        "time": "10:56",
+        "amount_of_new_items_found": 10
+    },
+    {
+        "time": "10:59",
+        "amount_of_new_items_found": 27
+    },
+    {
+        "time": "11:2",
+        "amount_of_new_items_found": 485
+    },
+    {
+        "time": "11:5",
+        "amount_of_new_items_found": 1022
+    },
+    {
+        "time": "11:8",
+        "amount_of_new_items_found": 24
+    },
+    {
+        "time": "11:11",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "11:15",
+        "amount_of_new_items_found": 8
+    },
+    {
+        "time": "11:18",
+        "amount_of_new_items_found": 16
+    },
+    {
+        "time": "11:21",
+        "amount_of_new_items_found": 7
+    },
+    {
+        "time": "11:24",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "11:27",
+        "amount_of_new_items_found": 7
+    },
+    {
+        "time": "11:30",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "11:33",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "11:37",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "11:40",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "11:43",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "17:33",
+        "amount_of_new_items_found": 1513
+    },
+    {
+        "time": "17:33",
+        "amount_of_new_items_found": 1513
+    },
+    {
+        "time": "3:24",
+        "amount_of_new_items_found": 3659
+    },
+    {
+        "time": "3:27",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "3:31",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "3:35",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "3:38",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "3:42",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "3:45",
+        "amount_of_new_items_found": 7
+    },
+    {
+        "time": "3:49",
+        "amount_of_new_items_found": 8
+    },
+    {
+        "time": "3:52",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "3:56",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "4:0",
+        "amount_of_new_items_found": 15
+    },
+    {
+        "time": "4:3",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "4:7",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "4:10",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "4:14",
+        "amount_of_new_items_found": 8
+    },
+    {
+        "time": "4:17",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "4:21",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "4:25",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "4:28",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "4:32",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "4:35",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "4:39",
+        "amount_of_new_items_found": 7
+    },
+    {
+        "time": "4:42",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "4:46",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "4:50",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "4:53",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "4:57",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "5:0",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "5:4",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "5:8",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "5:11",
+        "amount_of_new_items_found": 12
+    },
+    {
+        "time": "5:15",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "5:18",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "5:22",
+        "amount_of_new_items_found": 12
+    },
+    {
+        "time": "5:26",
+        "amount_of_new_items_found": 3862
+    },
+    {
+        "time": "5:29",
+        "amount_of_new_items_found": 290
+    },
+    {
+        "time": "5:33",
+        "amount_of_new_items_found": 12
+    },
+    {
+        "time": "5:36",
+        "amount_of_new_items_found": 11
+    },
+    {
+        "time": "5:40",
+        "amount_of_new_items_found": 16
+    },
+    {
+        "time": "5:44",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "5:47",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "5:51",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "5:54",
+        "amount_of_new_items_found": 12
+    },
+    {
+        "time": "5:58",
+        "amount_of_new_items_found": 12
+    },
+    {
+        "time": "6:2",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "6:5",
+        "amount_of_new_items_found": 16
+    },
+    {
+        "time": "6:9",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "6:12",
+        "amount_of_new_items_found": 11
+    },
+    {
+        "time": "6:16",
+        "amount_of_new_items_found": 13
+    },
+    {
+        "time": "6:20",
+        "amount_of_new_items_found": 11
+    },
+    {
+        "time": "6:23",
+        "amount_of_new_items_found": 30
+    },
+    {
+        "time": "6:27",
+        "amount_of_new_items_found": 14
+    },
+    {
+        "time": "6:30",
+        "amount_of_new_items_found": 8
+    },
+    {
+        "time": "6:34",
+        "amount_of_new_items_found": 19
+    },
+    {
+        "time": "6:38",
+        "amount_of_new_items_found": 18
+    },
+    {
+        "time": "6:41",
+        "amount_of_new_items_found": 18
+    },
+    {
+        "time": "6:45",
+        "amount_of_new_items_found": 19
+    },
+    {
+        "time": "6:48",
+        "amount_of_new_items_found": 23
+    },
+    {
+        "time": "6:52",
+        "amount_of_new_items_found": 16
+    },
+    {
+        "time": "6:56",
+        "amount_of_new_items_found": 13
+    },
+    {
+        "time": "6:59",
+        "amount_of_new_items_found": 19
+    },
+    {
+        "time": "7:3",
+        "amount_of_new_items_found": 19
+    },
+    {
+        "time": "7:7",
+        "amount_of_new_items_found": 23
+    },
+    {
+        "time": "7:10",
+        "amount_of_new_items_found": 13
+    },
+    {
+        "time": "7:14",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "7:17",
+        "amount_of_new_items_found": 12
+    },
+    {
+        "time": "7:21",
+        "amount_of_new_items_found": 11
+    },
+    {
+        "time": "7:24",
+        "amount_of_new_items_found": 260
+    },
+    {
+        "time": "7:28",
+        "amount_of_new_items_found": 36
+    },
+    {
+        "time": "7:32",
+        "amount_of_new_items_found": 16
+    },
+    {
+        "time": "7:35",
+        "amount_of_new_items_found": 14
+    },
+    {
+        "time": "7:39",
+        "amount_of_new_items_found": 322
+    },
+    {
+        "time": "7:42",
+        "amount_of_new_items_found": 10
+    },
+    {
+        "time": "7:46",
+        "amount_of_new_items_found": 20
+    },
+    {
+        "time": "7:50",
+        "amount_of_new_items_found": 8
+    },
+    {
+        "time": "7:53",
+        "amount_of_new_items_found": 7
+    },
+    {
+        "time": "7:57",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "8:1",
+        "amount_of_new_items_found": 12
+    },
+    {
+        "time": "8:4",
+        "amount_of_new_items_found": 12
+    },
+    {
+        "time": "8:8",
+        "amount_of_new_items_found": 9
+    },
+    {
+        "time": "8:11",
+        "amount_of_new_items_found": 84
+    },
+    {
+        "time": "8:15",
+        "amount_of_new_items_found": 10
+    },
+    {
+        "time": "8:18",
+        "amount_of_new_items_found": 13
+    },
+    {
+        "time": "8:22",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "8:26",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "8:29",
+        "amount_of_new_items_found": 7
+    },
+    {
+        "time": "8:33",
+        "amount_of_new_items_found": 9
+    },
+    {
+        "time": "8:37",
+        "amount_of_new_items_found": 8
+    },
+    {
+        "time": "8:40",
+        "amount_of_new_items_found": 9
+    },
+    {
+        "time": "8:44",
+        "amount_of_new_items_found": 10
+    },
+    {
+        "time": "8:47",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "8:51",
+        "amount_of_new_items_found": 14
+    },
+    {
+        "time": "8:54",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "8:58",
+        "amount_of_new_items_found": 11
+    },
+    {
+        "time": "9:2",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "9:5",
+        "amount_of_new_items_found": 13
+    },
+    {
+        "time": "9:9",
+        "amount_of_new_items_found": 11
+    },
+    {
+        "time": "9:13",
+        "amount_of_new_items_found": 13
+    },
+    {
+        "time": "9:16",
+        "amount_of_new_items_found": 10
+    },
+    {
+        "time": "9:20",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "9:23",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "9:27",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "9:31",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "9:34",
+        "amount_of_new_items_found": 7
+    },
+    {
+        "time": "9:38",
+        "amount_of_new_items_found": 7
+    },
+    {
+        "time": "9:41",
+        "amount_of_new_items_found": 10
+    },
+    {
+        "time": "9:45",
+        "amount_of_new_items_found": 11
+    },
+    {
+        "time": "9:48",
+        "amount_of_new_items_found": 1306
+    },
+    {
+        "time": "9:52",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "9:56",
+        "amount_of_new_items_found": 407
+    },
+    {
+        "time": "9:59",
+        "amount_of_new_items_found": 341
+    },
+    {
+        "time": "10:3",
+        "amount_of_new_items_found": 612
+    },
+    {
+        "time": "10:6",
+        "amount_of_new_items_found": 1431
+    },
+    {
+        "time": "10:10",
+        "amount_of_new_items_found": 27
+    },
+    {
+        "time": "10:14",
+        "amount_of_new_items_found": 28
+    },
+    {
+        "time": "10:17",
+        "amount_of_new_items_found": 8
+    },
+    {
+        "time": "10:21",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "10:24",
+        "amount_of_new_items_found": 42
+    },
+    {
+        "time": "10:28",
+        "amount_of_new_items_found": 18
+    },
+    {
+        "time": "10:32",
+        "amount_of_new_items_found": 473
+    },
+    {
+        "time": "10:35",
+        "amount_of_new_items_found": 182
+    },
+    {
+        "time": "10:39",
+        "amount_of_new_items_found": 214
+    },
+    {
+        "time": "10:43",
+        "amount_of_new_items_found": 379
+    },
+    {
+        "time": "10:46",
+        "amount_of_new_items_found": 261
+    },
+    {
+        "time": "10:50",
+        "amount_of_new_items_found": 311
+    },
+    {
+        "time": "10:53",
+        "amount_of_new_items_found": 263
+    },
+    {
+        "time": "10:57",
+        "amount_of_new_items_found": 287
+    },
+    {
+        "time": "11:1",
+        "amount_of_new_items_found": 425
+    },
+    {
+        "time": "11:8",
+        "amount_of_new_items_found": 482
+    },
+    {
+        "time": "11:11",
+        "amount_of_new_items_found": 683
+    },
+    {
+        "time": "11:19",
+        "amount_of_new_items_found": 767
+    },
+    {
+        "time": "11:22",
+        "amount_of_new_items_found": 272
+    },
+    {
+        "time": "11:26",
+        "amount_of_new_items_found": 193
+    },
+    {
+        "time": "11:29",
+        "amount_of_new_items_found": 244
+    },
+    {
+        "time": "11:33",
+        "amount_of_new_items_found": 249
+    },
+    {
+        "time": "11:36",
+        "amount_of_new_items_found": 773
+    },
+    {
+        "time": "11:43",
+        "amount_of_new_items_found": 6475
+    },
+    {
+        "time": "11:47",
+        "amount_of_new_items_found": 3806
+    },
+    {
+        "time": "11:51",
+        "amount_of_new_items_found": 726
+    },
+    {
+        "time": "11:54",
+        "amount_of_new_items_found": 6097
+    },
+    {
+        "time": "11:58",
+        "amount_of_new_items_found": 3771
+    },
+    {
+        "time": "12:1",
+        "amount_of_new_items_found": 4406
+    },
+    {
+        "time": "12:5",
+        "amount_of_new_items_found": 1125
+    },
+    {
+        "time": "12:9",
+        "amount_of_new_items_found": 1867
+    },
+    {
+        "time": "12:12",
+        "amount_of_new_items_found": 2415
+    },
+    {
+        "time": "12:16",
+        "amount_of_new_items_found": 1961
+    },
+    {
+        "time": "12:19",
+        "amount_of_new_items_found": 2404
+    },
+    {
+        "time": "12:23",
+        "amount_of_new_items_found": 1961
+    },
+    {
+        "time": "12:26",
+        "amount_of_new_items_found": 2808
+    },
+    {
+        "time": "12:30",
+        "amount_of_new_items_found": 4370
+    },
+    {
+        "time": "12:34",
+        "amount_of_new_items_found": 3901
+    },
+    {
+        "time": "12:37",
+        "amount_of_new_items_found": 4931
+    },
+    {
+        "time": "12:41",
+        "amount_of_new_items_found": 5233
+    },
+    {
+        "time": "12:45",
+        "amount_of_new_items_found": 1807
+    },
+    {
+        "time": "12:48",
+        "amount_of_new_items_found": 1357
+    },
+    {
+        "time": "12:52",
+        "amount_of_new_items_found": 2177
+    },
+    {
+        "time": "12:55",
+        "amount_of_new_items_found": 92
+    },
+    {
+        "time": "12:59",
+        "amount_of_new_items_found": 23
+    },
+    {
+        "time": "13:3",
+        "amount_of_new_items_found": 8
+    },
+    {
+        "time": "13:6",
+        "amount_of_new_items_found": 17
+    },
+    {
+        "time": "13:10",
+        "amount_of_new_items_found": 16
+    },
+    {
+        "time": "13:13",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "13:17",
+        "amount_of_new_items_found": 154
+    },
+    {
+        "time": "13:21",
+        "amount_of_new_items_found": 8
+    },
+    {
+        "time": "13:24",
+        "amount_of_new_items_found": 18
+    },
+    {
+        "time": "13:28",
+        "amount_of_new_items_found": 16
+    },
+    {
+        "time": "13:35",
+        "amount_of_new_items_found": 29
+    },
+    {
+        "time": "13:39",
+        "amount_of_new_items_found": 11
+    },
+    {
+        "time": "13:42",
+        "amount_of_new_items_found": 23
+    },
+    {
+        "time": "13:46",
+        "amount_of_new_items_found": 137
+    },
+    {
+        "time": "13:49",
+        "amount_of_new_items_found": 13
+    },
+    {
+        "time": "13:53",
+        "amount_of_new_items_found": 300
+    },
+    {
+        "time": "13:57",
+        "amount_of_new_items_found": 10
+    },
+    {
+        "time": "14:0",
+        "amount_of_new_items_found": 11
+    },
+    {
+        "time": "14:4",
+        "amount_of_new_items_found": 9
+    },
+    {
+        "time": "14:7",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "14:11",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "14:15",
+        "amount_of_new_items_found": 185
+    },
+    {
+        "time": "14:18",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "14:22",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "14:25",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "14:29",
+        "amount_of_new_items_found": 10
+    },
+    {
+        "time": "14:33",
+        "amount_of_new_items_found": 175
+    },
+    {
+        "time": "14:36",
+        "amount_of_new_items_found": 12
+    },
+    {
+        "time": "14:40",
+        "amount_of_new_items_found": 15
+    },
+    {
+        "time": "14:43",
+        "amount_of_new_items_found": 74
+    },
+    {
+        "time": "14:47",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "14:50",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "14:54",
+        "amount_of_new_items_found": 17
+    },
+    {
+        "time": "14:58",
+        "amount_of_new_items_found": 7
+    },
+    {
+        "time": "15:1",
+        "amount_of_new_items_found": 9
+    },
+    {
+        "time": "15:5",
+        "amount_of_new_items_found": 8
+    },
+    {
+        "time": "15:8",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "15:12",
+        "amount_of_new_items_found": 11
+    },
+    {
+        "time": "15:16",
+        "amount_of_new_items_found": 13
+    },
+    {
+        "time": "15:19",
+        "amount_of_new_items_found": 8
+    },
+    {
+        "time": "15:23",
+        "amount_of_new_items_found": 302
+    },
+    {
+        "time": "15:26",
+        "amount_of_new_items_found": 6
+    },
+    {
+        "time": "15:30",
+        "amount_of_new_items_found": 306
+    },
+    {
+        "time": "15:34",
+        "amount_of_new_items_found": 9
+    },
+    {
+        "time": "15:37",
+        "amount_of_new_items_found": 513
+    },
+    {
+        "time": "15:41",
+        "amount_of_new_items_found": 238
+    },
+    {
+        "time": "15:44",
+        "amount_of_new_items_found": 234
+    },
+    {
+        "time": "15:48",
+        "amount_of_new_items_found": 169
+    },
+    {
+        "time": "15:52",
+        "amount_of_new_items_found": 45
+    },
+    {
+        "time": "15:55",
+        "amount_of_new_items_found": 40
+    },
+    {
+        "time": "15:59",
+        "amount_of_new_items_found": 47
+    },
+    {
+        "time": "16:2",
+        "amount_of_new_items_found": 65
+    },
+    {
+        "time": "16:6",
+        "amount_of_new_items_found": 27
+    },
+    {
+        "time": "16:10",
+        "amount_of_new_items_found": 1779
+    },
+    {
+        "time": "16:14",
+        "amount_of_new_items_found": 30
+    },
+    {
+        "time": "16:17",
+        "amount_of_new_items_found": 40
+    },
+    {
+        "time": "16:21",
+        "amount_of_new_items_found": 12
+    },
+    {
+        "time": "16:24",
+        "amount_of_new_items_found": 28
+    },
+    {
+        "time": "16:28",
+        "amount_of_new_items_found": 897
+    },
+    {
+        "time": "16:31",
+        "amount_of_new_items_found": 729
+    },
+    {
+        "time": "16:35",
+        "amount_of_new_items_found": 16
+    },
+    {
+        "time": "16:38",
+        "amount_of_new_items_found": 18
+    },
+    {
+        "time": "16:42",
+        "amount_of_new_items_found": 29
+    },
+    {
+        "time": "16:46",
+        "amount_of_new_items_found": 1007
+    },
+    {
+        "time": "16:49",
+        "amount_of_new_items_found": 31
+    },
+    {
+        "time": "16:53",
+        "amount_of_new_items_found": 28
+    },
+    {
+        "time": "16:56",
+        "amount_of_new_items_found": 68
+    },
+    {
+        "time": "17:0",
+        "amount_of_new_items_found": 472
+    },
+    {
+        "time": "17:4",
+        "amount_of_new_items_found": 25
+    },
+    {
+        "time": "17:7",
+        "amount_of_new_items_found": 25
+    },
+    {
+        "time": "17:11",
+        "amount_of_new_items_found": 25
+    },
+    {
+        "time": "17:14",
+        "amount_of_new_items_found": 37
+    },
+    {
+        "time": "17:18",
+        "amount_of_new_items_found": 20
+    },
+    {
+        "time": "17:22",
+        "amount_of_new_items_found": 931
+    },
+    {
+        "time": "2:20",
+        "amount_of_new_items_found": 891
+    },
+    {
+        "time": "2:23",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "2:27",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "2:30",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "2:33",
+        "amount_of_new_items_found": 5
+    },
+    {
+        "time": "2:36",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "2:40",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "2:43",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "2:47",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "2:50",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "2:53",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "2:57",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "3:0",
+        "amount_of_new_items_found": 3
+    },
+    {
+        "time": "3:3",
+        "amount_of_new_items_found": 2
+    },
+    {
+        "time": "3:7",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "3:10",
+        "amount_of_new_items_found": 1
+    },
+    {
+        "time": "3:13",
+        "amount_of_new_items_found": 0
+    },
+    {
+        "time": "0:11",
+        "amount_of_new_items_found": 67942
+    },
+    {
+        "time": "0:17",
+        "amount_of_new_items_found": 4
+    },
+    {
+        "time": "0:21",
+        "amount_of_new_items_found": 0
+    }
+]

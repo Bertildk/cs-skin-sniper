@@ -1,0 +1,5731 @@
+{
+    "items": {
+        "8c06b607-9912-4d3e-b59c-3dba3ec6159a": {
+            "skin_name": "CZ75-Auto | Polymer (Minimal Wear)",
+            "skin_price": 0.26,
+            "totalStickerPrice": 13.84,
+            "stickers": [
+                {
+                    "name": "NBK- | Atlanta 2017",
+                    "price": 13.84,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 53.23,
+            "sticker_craft": false
+        },
+        "b3b2e0c9-34ed-437f-8974-73a220214065": {
+            "skin_name": "M4A4 | Magnesium (Field-Tested)",
+            "skin_price": 0.6,
+            "totalStickerPrice": 27.68,
+            "stickers": [
+                {
+                    "name": "TACO | London 2018",
+                    "price": 1.61,
+                    "slot": 1
+                },
+                {
+                    "name": "Kjaerbye | London 2018",
+                    "price": 26.07,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 46.13,
+            "sticker_craft": false
+        },
+        "c7538c7e-4cfe-430d-8306-e4a7b012b903": {
+            "skin_name": "StatTrak\u2122 Desert Eagle | Bronze Deco (Field-Tested)",
+            "skin_price": 0.82,
+            "totalStickerPrice": 11.99,
+            "stickers": [
+                {
+                    "name": "Ex6TenZ | Cologne 2015",
+                    "price": 11.99,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 14.62,
+            "sticker_craft": false
+        },
+        "550a96cf-feed-44a5-8014-d3f065c3cdbb": {
+            "skin_name": "AK-47 | Elite Build (Well-Worn)",
+            "skin_price": 1.83,
+            "totalStickerPrice": 23.9,
+            "stickers": [
+                {
+                    "name": "DAVEY | MLG Columbus 2016",
+                    "price": 6.37,
+                    "slot": 1
+                },
+                {
+                    "name": "refrezh (Glitter) | Rio 2022",
+                    "price": 0.07,
+                    "slot": 2
+                },
+                {
+                    "name": "Shara | MLG Columbus 2016",
+                    "price": 13.29,
+                    "slot": 3
+                },
+                {
+                    "name": "NEO | MLG Columbus 2016",
+                    "price": 4.17,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 13.06,
+            "sticker_craft": false
+        },
+        "5deb47d4-2851-4f7c-8eb8-1fa7d5b98a36": {
+            "skin_name": "AK-47 | Elite Build (Well-Worn)",
+            "skin_price": 1.83,
+            "totalStickerPrice": 22.08,
+            "stickers": [
+                {
+                    "name": "fer | Antwerp 2022",
+                    "price": 0.01,
+                    "slot": 1
+                },
+                {
+                    "name": "fer | Antwerp 2022",
+                    "price": 0.01,
+                    "slot": 2
+                },
+                {
+                    "name": "DEVIL | MLG Columbus 2016",
+                    "price": 11.03,
+                    "slot": 3
+                },
+                {
+                    "name": "DEVIL | MLG Columbus 2016",
+                    "price": 11.03,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 12.07,
+            "sticker_craft": false
+        },
+        "9a30b41c-9952-49d4-a21f-b6d8809ad97e": {
+            "skin_name": "FAMAS | Survivor Z (Field-Tested)",
+            "skin_price": 0.85,
+            "totalStickerPrice": 10.22,
+            "stickers": [
+                {
+                    "name": "abE | MLG Columbus 2016",
+                    "price": 10.22,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 12.02,
+            "sticker_craft": false
+        },
+        "8492adf0-0dcd-4877-8a61-90498508a1a0": {
+            "skin_name": "P90 | Chopper (Minimal Wear)",
+            "skin_price": 1.66,
+            "totalStickerPrice": 13.98,
+            "stickers": [
+                {
+                    "name": "nex (Foil) | Boston 2018",
+                    "price": 13.98,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 8.42,
+            "sticker_craft": false
+        },
+        "2fda618f-e52c-4224-a2f5-e5e040a5ce34": {
+            "skin_name": "AK-47 | Elite Build (Field-Tested)",
+            "skin_price": 2.21,
+            "totalStickerPrice": 13.98,
+            "stickers": [
+                {
+                    "name": "denis | MLG Columbus 2016",
+                    "price": 4.56,
+                    "slot": 1
+                },
+                {
+                    "name": "denis | MLG Columbus 2016",
+                    "price": 4.56,
+                    "slot": 2
+                },
+                {
+                    "name": "denis | MLG Columbus 2016",
+                    "price": 4.56,
+                    "slot": 3
+                },
+                {
+                    "name": "n0thing | Katowice 2019",
+                    "price": 0.3,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 6.33,
+            "sticker_craft": false
+        },
+        "924ba7bc-b388-4e80-aa92-46d2b8b74c93": {
+            "skin_name": "AK-47 | Elite Build (Field-Tested)",
+            "skin_price": 2.21,
+            "totalStickerPrice": 13.44,
+            "stickers": [
+                {
+                    "name": "dennis | Cologne 2016",
+                    "price": 12.75,
+                    "slot": 1
+                },
+                {
+                    "name": "C-S On The Go",
+                    "price": 0.01,
+                    "slot": 2
+                },
+                {
+                    "name": "KRIMZ | London 2018",
+                    "price": 0.62,
+                    "slot": 3
+                },
+                {
+                    "name": "xseveN | Berlin 2019",
+                    "price": 0.06,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 6.08,
+            "sticker_craft": false
+        },
+        "f4df1a16-ce8c-484c-b604-90181920f037": {
+            "skin_name": "AK-47 | Elite Build (Field-Tested)",
+            "skin_price": 2.21,
+            "totalStickerPrice": 12.09,
+            "stickers": [
+                {
+                    "name": "Xizt | MLG Columbus 2016",
+                    "price": 5.33,
+                    "slot": 1
+                },
+                {
+                    "name": "allu | Cologne 2015",
+                    "price": 2.06,
+                    "slot": 2
+                },
+                {
+                    "name": "Xizt | Cologne 2015",
+                    "price": 2.37,
+                    "slot": 3
+                },
+                {
+                    "name": "Ninjas in Pyjamas | Cologne 2015",
+                    "price": 2.33,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 5.47,
+            "sticker_craft": false
+        },
+        "6e863606-6071-47bc-ac4b-49dd606daecf": {
+            "skin_name": "PP-Bizon | Lumen (Factory New)",
+            "skin_price": 2.78,
+            "totalStickerPrice": 12.89,
+            "stickers": [
+                {
+                    "name": "Flame Tier6 (Holo)",
+                    "price": 12.89,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 4.64,
+            "sticker_craft": false
+        },
+        "75a4bd72-0217-4eb6-ad2e-eab62c047eb9": {
+            "skin_name": "USP-S | Torque (Minimal Wear)",
+            "skin_price": 2.45,
+            "totalStickerPrice": 10.5,
+            "stickers": [
+                {
+                    "name": "pashaBiceps (Foil) | Boston 2018",
+                    "price": 8.38,
+                    "slot": 1
+                },
+                {
+                    "name": "Sharks Esports (Holo) | Stockholm 2021",
+                    "price": 1.06,
+                    "slot": 2
+                },
+                {
+                    "name": "Sharks Esports (Holo) | Stockholm 2021",
+                    "price": 1.06,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 4.29,
+            "sticker_craft": false
+        },
+        "926ca1e2-206b-43fd-ab8e-4cfab44d7627": {
+            "skin_name": "StatTrak\u2122 USP-S | Torque (Field-Tested)",
+            "skin_price": 3.56,
+            "totalStickerPrice": 13.17,
+            "stickers": [
+                {
+                    "name": "dennis | Cologne 2016",
+                    "price": 12.75,
+                    "slot": 1
+                },
+                {
+                    "name": "Lit (Holo)",
+                    "price": 0.29,
+                    "slot": 2
+                },
+                {
+                    "name": "NertZ (Holo) | Paris 2023",
+                    "price": 0.11,
+                    "slot": 3
+                },
+                {
+                    "name": "Natus Vincere | Copenhagen 2024",
+                    "price": 0.02,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 3.7,
+            "sticker_craft": false
+        },
+        "4b691fd9-9162-4540-bea0-051e224439dc": {
+            "skin_name": "AWP | Worm God (Minimal Wear)",
+            "skin_price": 2.93,
+            "totalStickerPrice": 10.51,
+            "stickers": [
+                {
+                    "name": "NEO | Atlanta 2017",
+                    "price": 3.89,
+                    "slot": 1
+                },
+                {
+                    "name": "Awp Country",
+                    "price": 0.74,
+                    "slot": 2
+                },
+                {
+                    "name": "steel | Krakow 2017",
+                    "price": 1.61,
+                    "slot": 3
+                },
+                {
+                    "name": "karrigan | Cologne 2015",
+                    "price": 4.27,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 3.59,
+            "sticker_craft": false
+        },
+        "b57fc1ee-9a4b-4531-881e-734bcc10fb8e": {
+            "skin_name": "AK-47 | Elite Build (Minimal Wear)",
+            "skin_price": 3.55,
+            "totalStickerPrice": 11.55,
+            "stickers": [
+                {
+                    "name": "mousesports | Atlanta 2017",
+                    "price": 11.55,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 3.25,
+            "sticker_craft": false
+        },
+        "a7491751-467f-4faa-83d2-3aa80aed229a": {
+            "skin_name": "StatTrak\u2122 SSG 08 | Dark Water (Field-Tested)",
+            "skin_price": 4.88,
+            "totalStickerPrice": 15.8,
+            "stickers": [
+                {
+                    "name": "MSL | Boston 2018",
+                    "price": 7.07,
+                    "slot": 1
+                },
+                {
+                    "name": "Zeus | Cologne 2016",
+                    "price": 5.88,
+                    "slot": 2
+                },
+                {
+                    "name": "Skadoodle | Boston 2018",
+                    "price": 2.85,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 3.24,
+            "sticker_craft": false
+        },
+        "7640f71d-3b1c-4764-9827-e0abf4443570": {
+            "skin_name": "StatTrak\u2122 FAMAS | Hexane (Field-Tested)",
+            "skin_price": 8.74,
+            "totalStickerPrice": 24.14,
+            "stickers": [
+                {
+                    "name": "DreamHack Winter 2014",
+                    "price": 22.9,
+                    "slot": 1
+                },
+                {
+                    "name": "Good Luck",
+                    "price": 1.24,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 2.76,
+            "sticker_craft": false
+        },
+        "0c68cab2-9171-4ed8-9598-0d0fe82faa51": {
+            "skin_name": "StatTrak\u2122 USP-S | Torque (Minimal Wear)",
+            "skin_price": 5.25,
+            "totalStickerPrice": 10.21,
+            "stickers": [
+                {
+                    "name": "Team Kinguin | Cologne 2015",
+                    "price": 3.33,
+                    "slot": 1
+                },
+                {
+                    "name": "FaZe Clan | Cologne 2016",
+                    "price": 4.89,
+                    "slot": 2
+                },
+                {
+                    "name": "GODSENT | Atlanta 2017",
+                    "price": 1.99,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 1.94,
+            "sticker_craft": false
+        },
+        "784b834d-2cd8-4da9-82fc-4276aea9164d": {
+            "skin_name": "StatTrak\u2122 AK-47 | Elite Build (Battle-Scarred)",
+            "skin_price": 6.09,
+            "totalStickerPrice": 11.64,
+            "stickers": [
+                {
+                    "name": "XANTARES | Boston 2018",
+                    "price": 5.62,
+                    "slot": 1
+                },
+                {
+                    "name": "ngiN | Boston 2018",
+                    "price": 2.51,
+                    "slot": 2
+                },
+                {
+                    "name": "Calyx | Boston 2018",
+                    "price": 1.71,
+                    "slot": 3
+                },
+                {
+                    "name": "Space Soldiers | London 2018",
+                    "price": 1.8,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 1.91,
+            "sticker_craft": false
+        },
+        "9bbfd8d8-d2b7-4030-a7b9-95fbe90767a4": {
+            "skin_name": "AK-47 | Slate (Field-Tested)",
+            "skin_price": 5.78,
+            "totalStickerPrice": 10.44,
+            "stickers": [
+                {
+                    "name": "Smoke Criminal",
+                    "price": 2.61,
+                    "slot": 1
+                },
+                {
+                    "name": "Smoke Criminal",
+                    "price": 2.61,
+                    "slot": 2
+                },
+                {
+                    "name": "Smoke Criminal",
+                    "price": 2.61,
+                    "slot": 3
+                },
+                {
+                    "name": "Smoke Criminal",
+                    "price": 2.61,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 1.81,
+            "sticker_craft": true
+        },
+        "25cd8bc7-8091-417e-b0c8-2a4558c802e1": {
+            "skin_name": "StatTrak\u2122 AWP | Phobos (Minimal Wear)",
+            "skin_price": 6.71,
+            "totalStickerPrice": 11.02,
+            "stickers": [
+                {
+                    "name": "Counter-Tech",
+                    "price": 0.19,
+                    "slot": 1
+                },
+                {
+                    "name": "Flipsid3 Tactics | Cologne 2016",
+                    "price": 7.84,
+                    "slot": 2
+                },
+                {
+                    "name": "Gambit Gaming | Cologne 2016",
+                    "price": 2.67,
+                    "slot": 3
+                },
+                {
+                    "name": "Mastermind (Holo)",
+                    "price": 0.32,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 1.64,
+            "sticker_craft": false
+        },
+        "60493ccc-eb25-4dd4-bcba-fa0c90a8ac74": {
+            "skin_name": "AK-47 | Blue Laminate (Field-Tested)",
+            "skin_price": 18.05,
+            "totalStickerPrice": 28.16,
+            "stickers": [
+                {
+                    "name": "RpK | Cluj-Napoca 2015",
+                    "price": 11.72,
+                    "slot": 1
+                },
+                {
+                    "name": "Fnatic | Katowice 2015",
+                    "price": 10.29,
+                    "slot": 2
+                },
+                {
+                    "name": "friberg | Cluj-Napoca 2015",
+                    "price": 3.48,
+                    "slot": 3
+                },
+                {
+                    "name": "Gambit Gaming | Cologne 2016",
+                    "price": 2.67,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 1.56,
+            "sticker_craft": false
+        },
+        "ddc59cfb-2ac9-4da1-b30f-c11c4684bf2d": {
+            "skin_name": "P2000 | Imperial Dragon (Minimal Wear)",
+            "skin_price": 8.04,
+            "totalStickerPrice": 12.27,
+            "stickers": [
+                {
+                    "name": "Guardian Dragon (Foil)",
+                    "price": 1.87,
+                    "slot": 1
+                },
+                {
+                    "name": "Battle Scarred (Holo)",
+                    "price": 6.6,
+                    "slot": 2
+                },
+                {
+                    "name": "Seeing Red (Foil)",
+                    "price": 3.75,
+                    "slot": 3
+                },
+                {
+                    "name": "Eternal Fire | Antwerp 2022",
+                    "price": 0.05,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 1.53,
+            "sticker_craft": false
+        },
+        "0db6bd77-8393-43bb-afdf-100351bb0065": {
+            "skin_name": "AK-47 | Orbit Mk01 (Field-Tested)",
+            "skin_price": 27.28,
+            "totalStickerPrice": 39.85,
+            "stickers": [
+                {
+                    "name": "Avangar (Holo) | Berlin 2019",
+                    "price": 0.77,
+                    "slot": 1
+                },
+                {
+                    "name": "Avangar (Holo) | Berlin 2019",
+                    "price": 0.77,
+                    "slot": 2
+                },
+                {
+                    "name": "Cloud9 (Holo) | Krakow 2017",
+                    "price": 37.45,
+                    "slot": 3
+                },
+                {
+                    "name": "Cloud9 (Glitter) | Rio 2022",
+                    "price": 0.16,
+                    "slot": 4
+                },
+                {
+                    "name": "kraghen (Gold) | Copenhagen 2024",
+                    "price": 0.7,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 1.46,
+            "sticker_craft": false
+        },
+        "565b2706-8682-4a92-8591-d8ff07d18b6f": {
+            "skin_name": "StatTrak\u2122 UMP-45 | Metal Flowers (Factory New)",
+            "skin_price": 11.8,
+            "totalStickerPrice": 17.19,
+            "stickers": [
+                {
+                    "name": "Zeus | Boston 2018",
+                    "price": 1.39,
+                    "slot": 1
+                },
+                {
+                    "name": "JW (Foil) | Krakow 2017",
+                    "price": 15.8,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 1.46,
+            "sticker_craft": false
+        },
+        "7768f234-21f5-403c-8171-7de6bd85ef30": {
+            "skin_name": "AWP | POP AWP (Factory New)",
+            "skin_price": 12.07,
+            "totalStickerPrice": 17.35,
+            "stickers": [
+                {
+                    "name": "Kawaii Killer Terrorist",
+                    "price": 0.78,
+                    "slot": 1
+                },
+                {
+                    "name": "Great Wave (Foil)",
+                    "price": 14.19,
+                    "slot": 2
+                },
+                {
+                    "name": "Fire in the Hole (Holo)",
+                    "price": 2.38,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 1.44,
+            "sticker_craft": false
+        },
+        "714f2d35-bcf9-4f10-9dcc-8bdf9a5a7a12": {
+            "skin_name": "StatTrak\u2122 USP-S | Guardian (Field-Tested)",
+            "skin_price": 15.29,
+            "totalStickerPrice": 21.49,
+            "stickers": [
+                {
+                    "name": "Happy | Atlanta 2017",
+                    "price": 6.34,
+                    "slot": 1
+                },
+                {
+                    "name": "Natus Vincere | Atlanta 2017",
+                    "price": 5.56,
+                    "slot": 2
+                },
+                {
+                    "name": "Edward | Atlanta 2017",
+                    "price": 5.2,
+                    "slot": 3
+                },
+                {
+                    "name": "flamie | Atlanta 2017",
+                    "price": 4.39,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 1.41,
+            "sticker_craft": false
+        },
+        "95c3393e-923b-42c1-a999-17d4172ef4bd": {
+            "skin_name": "StatTrak\u2122 AK-47 | Elite Build (Field-Tested)",
+            "skin_price": 7.7,
+            "totalStickerPrice": 10.71,
+            "stickers": [
+                {
+                    "name": "Coiled Strike (Holo)",
+                    "price": 1.13,
+                    "slot": 1
+                },
+                {
+                    "name": "Shattered Web",
+                    "price": 0.21,
+                    "slot": 2
+                },
+                {
+                    "name": "Jack",
+                    "price": 0.61,
+                    "slot": 3
+                },
+                {
+                    "name": "Virtus.Pro (Holo) | Krakow 2017",
+                    "price": 8.76,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 1.39,
+            "sticker_craft": false
+        },
+        "f6f5d9fd-b19a-43a4-98f4-7bcb7b28e6d0": {
+            "skin_name": "USP-S | Neo-Noir (Field-Tested)",
+            "skin_price": 22.19,
+            "totalStickerPrice": 29.0,
+            "stickers": [
+                {
+                    "name": "dennis (Foil) | Atlanta 2017",
+                    "price": 29.0,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 1.31,
+            "sticker_craft": false
+        },
+        "ef78454e-6ff7-41a1-9082-e5f293a21ec2": {
+            "skin_name": "StatTrak\u2122 USP-S | Blueprint (Well-Worn)",
+            "skin_price": 24.5,
+            "totalStickerPrice": 30.84,
+            "stickers": [
+                {
+                    "name": "Astralis (Holo) | Boston 2018",
+                    "price": 30.84,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 1.26,
+            "sticker_craft": false
+        },
+        "5aff7b97-6937-4ae4-8a79-96aae198ee82": {
+            "skin_name": "USP-S | Purple DDPAT (Factory New)",
+            "skin_price": 26.44,
+            "totalStickerPrice": 32.14,
+            "stickers": [
+                {
+                    "name": "Miami Flow (Holo)",
+                    "price": 13.56,
+                    "slot": 1
+                },
+                {
+                    "name": "Candy Buttery (Holo)",
+                    "price": 3.67,
+                    "slot": 2
+                },
+                {
+                    "name": "Kawaii T (Holo)",
+                    "price": 5.31,
+                    "slot": 3
+                },
+                {
+                    "name": "Kawaii CT (Holo)",
+                    "price": 3.75,
+                    "slot": 4
+                },
+                {
+                    "name": "Lotus (Glitter)",
+                    "price": 5.85,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 1.22,
+            "sticker_craft": false
+        },
+        "7dd8ad70-3ac4-4afc-a88b-ce2f14e8f20a": {
+            "skin_name": "AK-47 | Slate (Minimal Wear)",
+            "skin_price": 8.87,
+            "totalStickerPrice": 10.58,
+            "stickers": [
+                {
+                    "name": "Ax1Le (Gold) | Stockholm 2021",
+                    "price": 8.7,
+                    "slot": 1
+                },
+                {
+                    "name": "Ax1Le (Holo) | Stockholm 2021",
+                    "price": 0.47,
+                    "slot": 2
+                },
+                {
+                    "name": "Ax1Le (Holo) | Stockholm 2021",
+                    "price": 0.47,
+                    "slot": 3
+                },
+                {
+                    "name": "Ax1Le (Holo) | Stockholm 2021",
+                    "price": 0.47,
+                    "slot": 4
+                },
+                {
+                    "name": "Ax1Le (Holo) | Stockholm 2021",
+                    "price": 0.47,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 1.19,
+            "sticker_craft": false
+        },
+        "25033bd4-34ef-4b97-bb07-5058994e4343": {
+            "skin_name": "P250 | Muertos (Field-Tested)",
+            "skin_price": 8.79,
+            "totalStickerPrice": 10.17,
+            "stickers": [
+                {
+                    "name": "Astralis | Cologne 2016",
+                    "price": 8.38,
+                    "slot": 1
+                },
+                {
+                    "name": "Gambit Gaming | Atlanta 2017",
+                    "price": 1.79,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 1.16,
+            "sticker_craft": false
+        },
+        "ecdb8ee9-4d55-47ff-a796-75c61526e4f9": {
+            "skin_name": "StatTrak\u2122 AWP | Worm God (Well-Worn)",
+            "skin_price": 8.81,
+            "totalStickerPrice": 10.16,
+            "stickers": [
+                {
+                    "name": "kennyS | Cologne 2015",
+                    "price": 9.42,
+                    "slot": 1
+                },
+                {
+                    "name": "Awp Country",
+                    "price": 0.74,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 1.15,
+            "sticker_craft": false
+        },
+        "5fc5286f-55f9-4dea-a974-ca2ac7e6edc0": {
+            "skin_name": "MP7 | Full Stop (Factory New)",
+            "skin_price": 59.41,
+            "totalStickerPrice": 65.78,
+            "stickers": [
+                {
+                    "name": "G2 Esports | Cologne 2016",
+                    "price": 4.48,
+                    "slot": 1
+                },
+                {
+                    "name": "RpK (Foil) | Cologne 2016",
+                    "price": 61.3,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 1.11,
+            "sticker_craft": false
+        },
+        "9dac5be7-b871-4f98-8ad3-07b8b0d35bf3": {
+            "skin_name": "AK-47 | Blue Laminate (Minimal Wear)",
+            "skin_price": 18.94,
+            "totalStickerPrice": 20.77,
+            "stickers": [
+                {
+                    "name": "nitr0 | Cluj-Napoca 2015",
+                    "price": 8.72,
+                    "slot": 1
+                },
+                {
+                    "name": "steel | Cologne 2015",
+                    "price": 11.8,
+                    "slot": 2
+                },
+                {
+                    "name": "Liquid (Holo) | 2020 RMR",
+                    "price": 0.25,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 1.1,
+            "sticker_craft": false
+        },
+        "6a311a95-9fb1-4355-a66a-ef9cac637ee6": {
+            "skin_name": "M4A1-S | Basilisk (Well-Worn)",
+            "skin_price": 10.76,
+            "totalStickerPrice": 11.44,
+            "stickers": [
+                {
+                    "name": "nitr0 | Cluj-Napoca 2015",
+                    "price": 8.72,
+                    "slot": 1
+                },
+                {
+                    "name": "Virtus.Pro | Cologne 2015",
+                    "price": 2.72,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 1.06,
+            "sticker_craft": false
+        },
+        "1e40fc14-3d03-4ae4-adcc-58ce00db2531": {
+            "skin_name": "StatTrak\u2122 AWP | Electric Hive (Minimal Wear)",
+            "skin_price": 109.25,
+            "totalStickerPrice": 114.45,
+            "stickers": [
+                {
+                    "name": "MLG (Holo) | MLG Columbus 2016",
+                    "price": 21.98,
+                    "slot": 1
+                },
+                {
+                    "name": "FaZe Clan (Holo) | Atlanta 2017",
+                    "price": 74.9,
+                    "slot": 2
+                },
+                {
+                    "name": "FaZe Clan (Holo) | Krakow 2017",
+                    "price": 17.57,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 1.05,
+            "sticker_craft": false
+        },
+        "8033c88d-3792-4b46-99ef-0668dbd06f88": {
+            "skin_name": "M4A4 | Neo-Noir (Minimal Wear)",
+            "skin_price": 25.64,
+            "totalStickerPrice": 24.26,
+            "stickers": [
+                {
+                    "name": "Team EnVyUs (Foil) | MLG Columbus 2016",
+                    "price": 22.99,
+                    "slot": 1
+                },
+                {
+                    "name": "ELEAGUE (Holo) | Boston 2018",
+                    "price": 1.15,
+                    "slot": 2
+                },
+                {
+                    "name": "Cloud9 | Shanghai 2024",
+                    "price": 0.12,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.95,
+            "sticker_craft": false
+        },
+        "1762c06c-5015-4d10-bc16-5d1db6e2ef73": {
+            "skin_name": "StatTrak\u2122 USP-S | Guardian (Field-Tested)",
+            "skin_price": 15.29,
+            "totalStickerPrice": 14.53,
+            "stickers": [
+                {
+                    "name": "Team Liquid | Atlanta 2017",
+                    "price": 12.54,
+                    "slot": 1
+                },
+                {
+                    "name": "BIG (Holo) | Shanghai 2024",
+                    "price": 1.34,
+                    "slot": 2
+                },
+                {
+                    "name": "Team Spirit (Glitter) | Antwerp 2022",
+                    "price": 0.27,
+                    "slot": 3
+                },
+                {
+                    "name": "Team Liquid (Glitter) | Shanghai 2024",
+                    "price": 0.36,
+                    "slot": 4
+                },
+                {
+                    "name": "Complexity Gaming | Antwerp 2022",
+                    "price": 0.02,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.95,
+            "sticker_craft": false
+        },
+        "f2731d18-8efd-467c-a83e-4ec5e2996401": {
+            "skin_name": "StatTrak\u2122 AK-47 | Elite Build (Minimal Wear)",
+            "skin_price": 11.97,
+            "totalStickerPrice": 11.11,
+            "stickers": [
+                {
+                    "name": "olofmeister | Cluj-Napoca 2015",
+                    "price": 3.76,
+                    "slot": 1
+                },
+                {
+                    "name": "Happy | Cluj-Napoca 2015",
+                    "price": 4.13,
+                    "slot": 2
+                },
+                {
+                    "name": "kioShiMa | Cluj-Napoca 2015",
+                    "price": 3.22,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.93,
+            "sticker_craft": false
+        },
+        "f13f85c5-d624-420f-8ed3-9c78a107ecf3": {
+            "skin_name": "MP7 | Nemesis (Minimal Wear)",
+            "skin_price": 11.35,
+            "totalStickerPrice": 10.19,
+            "stickers": [
+                {
+                    "name": "Natus Vincere (Foil) | Cologne 2016",
+                    "price": 10.19,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 0.9,
+            "sticker_craft": false
+        },
+        "5319b90d-6c98-4670-b388-8b440b4bac56": {
+            "skin_name": "AK-47 | Blue Laminate (Minimal Wear)",
+            "skin_price": 18.94,
+            "totalStickerPrice": 16.64,
+            "stickers": [
+                {
+                    "name": "NEO | Cologne 2015",
+                    "price": 3.88,
+                    "slot": 1
+                },
+                {
+                    "name": "Virtus.Pro | Cologne 2014",
+                    "price": 4.81,
+                    "slot": 2
+                },
+                {
+                    "name": "Virtus.Pro | Cologne 2015",
+                    "price": 2.72,
+                    "slot": 3
+                },
+                {
+                    "name": "Virtus.Pro | Atlanta 2017",
+                    "price": 5.23,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.88,
+            "sticker_craft": false
+        },
+        "7b191463-f3c2-4fe3-9d0b-d492ebfcdbd4": {
+            "skin_name": "AK-47 | Orbit Mk01 (Field-Tested)",
+            "skin_price": 27.28,
+            "totalStickerPrice": 23.51,
+            "stickers": [
+                {
+                    "name": "T Rush (Holo)",
+                    "price": 1.44,
+                    "slot": 1
+                },
+                {
+                    "name": "T Rush (Holo)",
+                    "price": 1.44,
+                    "slot": 2
+                },
+                {
+                    "name": "T Rush (Holo)",
+                    "price": 1.44,
+                    "slot": 3
+                },
+                {
+                    "name": "Liquid Fire (Holo)",
+                    "price": 19.19,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.86,
+            "sticker_craft": false
+        },
+        "89fdb5a0-d656-4947-82d1-6ac7aaff604d": {
+            "skin_name": "M4A4 | \u9f8d\u738b (Dragon King) (Field-Tested)",
+            "skin_price": 14.34,
+            "totalStickerPrice": 11.99,
+            "stickers": [
+                {
+                    "name": "Ex6TenZ | Cologne 2015",
+                    "price": 11.99,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 0.84,
+            "sticker_craft": false
+        },
+        "c01f8d63-9400-4985-94eb-4fd022e82e26": {
+            "skin_name": "UMP-45 | Fallout Warning (Minimal Wear)",
+            "skin_price": 27.92,
+            "totalStickerPrice": 21.92,
+            "stickers": [
+                {
+                    "name": "Dima | London 2018",
+                    "price": 1.35,
+                    "slot": 1
+                },
+                {
+                    "name": "DavCost (Foil) | London 2018",
+                    "price": 7.61,
+                    "slot": 2
+                },
+                {
+                    "name": "Virtus.Pro | Atlanta 2017",
+                    "price": 5.23,
+                    "slot": 3
+                },
+                {
+                    "name": "DavCost (Foil) | London 2018",
+                    "price": 7.61,
+                    "slot": 4
+                },
+                {
+                    "name": "BIG (Holo) | 2020 RMR",
+                    "price": 0.12,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.79,
+            "sticker_craft": false
+        },
+        "51748724-aefd-488f-832c-c37575ec4f57": {
+            "skin_name": "StatTrak\u2122 AWP | Redline (Field-Tested)",
+            "skin_price": 127.39,
+            "totalStickerPrice": 95.36,
+            "stickers": [
+                {
+                    "name": "Imperial Esports (Glitter) | Rio 2022",
+                    "price": 0.07,
+                    "slot": 1
+                },
+                {
+                    "name": "FalleN (Gold) | Katowice 2019",
+                    "price": 94.0,
+                    "slot": 2
+                },
+                {
+                    "name": "MIBR (Holo) | Katowice 2019",
+                    "price": 1.29,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.75,
+            "sticker_craft": false
+        },
+        "ef762b0c-7604-41ee-be5f-78e7886ed3b7": {
+            "skin_name": "Desert Eagle | Kumicho Dragon (Field-Tested)",
+            "skin_price": 26.93,
+            "totalStickerPrice": 20.26,
+            "stickers": [
+                {
+                    "name": "Fnatic | MLG Columbus 2016",
+                    "price": 2.53,
+                    "slot": 1
+                },
+                {
+                    "name": "MLG | MLG Columbus 2016",
+                    "price": 7.6,
+                    "slot": 2
+                },
+                {
+                    "name": "Fnatic | MLG Columbus 2016",
+                    "price": 2.53,
+                    "slot": 3
+                },
+                {
+                    "name": "MLG | MLG Columbus 2016",
+                    "price": 7.6,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.75,
+            "sticker_craft": false
+        },
+        "fc137165-8573-4f0f-aa98-00e30fe61a20": {
+            "skin_name": "USP-S | Orion (Minimal Wear)",
+            "skin_price": 84.89,
+            "totalStickerPrice": 62.04,
+            "stickers": [
+                {
+                    "name": "Fnatic | Katowice 2015",
+                    "price": 10.29,
+                    "slot": 1
+                },
+                {
+                    "name": "Let's Roll-oll",
+                    "price": 0.19,
+                    "slot": 2
+                },
+                {
+                    "name": "PENTA Sports (Holo) | Katowice 2015",
+                    "price": 48.73,
+                    "slot": 3
+                },
+                {
+                    "name": "pronax | Cluj-Napoca 2015",
+                    "price": 2.83,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.73,
+            "sticker_craft": false
+        },
+        "c75db7cb-7d52-4b64-9056-babd5490cfe6": {
+            "skin_name": "Tec-9 | Toxic (Factory New)",
+            "skin_price": 17.48,
+            "totalStickerPrice": 12.78,
+            "stickers": [
+                {
+                    "name": "Fnatic (Holo) | MLG Columbus 2016",
+                    "price": 12.53,
+                    "slot": 1
+                },
+                {
+                    "name": "Rush More",
+                    "price": 0.17,
+                    "slot": 2
+                },
+                {
+                    "name": "Gnome Mercy",
+                    "price": 0.08,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.73,
+            "sticker_craft": false
+        },
+        "d368f51b-75bf-4a3f-8d78-46c43f56f65f": {
+            "skin_name": "M4A1-S | Cyrex (Battle-Scarred)",
+            "skin_price": 32.82,
+            "totalStickerPrice": 22.24,
+            "stickers": [
+                {
+                    "name": "FaZe Clan | MLG Columbus 2016",
+                    "price": 1.96,
+                    "slot": 1
+                },
+                {
+                    "name": "rain | MLG Columbus 2016",
+                    "price": 9.3,
+                    "slot": 2
+                },
+                {
+                    "name": "rain | Cluj-Napoca 2015",
+                    "price": 10.63,
+                    "slot": 3
+                },
+                {
+                    "name": "ENCE (Gold) | Paris 2023",
+                    "price": 0.35,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.68,
+            "sticker_craft": false
+        },
+        "248871ce-7d49-4464-8f23-911495f2e8eb": {
+            "skin_name": "M4A1-S | Guardian (Field-Tested)",
+            "skin_price": 28.29,
+            "totalStickerPrice": 19.17,
+            "stickers": [
+                {
+                    "name": "Fnatic | Cologne 2014",
+                    "price": 4.18,
+                    "slot": 1
+                },
+                {
+                    "name": "ESL One Cologne 2014 (Blue)",
+                    "price": 14.99,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.68,
+            "sticker_craft": false
+        },
+        "dcc6692c-ab03-42d3-88b4-2f3548ac43f0": {
+            "skin_name": "Glock-18 | Neo-Noir (Well-Worn)",
+            "skin_price": 15.42,
+            "totalStickerPrice": 10.22,
+            "stickers": [
+                {
+                    "name": "abE | MLG Columbus 2016",
+                    "price": 10.22,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 0.66,
+            "sticker_craft": false
+        },
+        "dc7ddecf-8b74-4f92-8b46-72501c1282da": {
+            "skin_name": "AK-47 | Frontside Misty (Field-Tested)",
+            "skin_price": 20.37,
+            "totalStickerPrice": 13.18,
+            "stickers": [
+                {
+                    "name": "Skadoodle | Krakow 2017",
+                    "price": 2.6,
+                    "slot": 1
+                },
+                {
+                    "name": "n0thing | Krakow 2017",
+                    "price": 3.47,
+                    "slot": 2
+                },
+                {
+                    "name": "autimatic | Krakow 2017",
+                    "price": 1.82,
+                    "slot": 3
+                },
+                {
+                    "name": "Stewie2K | Krakow 2017",
+                    "price": 5.29,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.65,
+            "sticker_craft": false
+        },
+        "1488ae69-be87-4c90-a67d-8c7dbfd6b795": {
+            "skin_name": "AWP | Chromatic Aberration (Minimal Wear)",
+            "skin_price": 16.1,
+            "totalStickerPrice": 10.4,
+            "stickers": [
+                {
+                    "name": "Ethereal Gaze (Foil)",
+                    "price": 1.7,
+                    "slot": 1
+                },
+                {
+                    "name": "V For Victory (Holo)",
+                    "price": 2.56,
+                    "slot": 2
+                },
+                {
+                    "name": "Kawaii T (Holo)",
+                    "price": 5.31,
+                    "slot": 3
+                },
+                {
+                    "name": "Fnatic (Gold) | Paris 2023",
+                    "price": 0.7,
+                    "slot": 4
+                },
+                {
+                    "name": "Surf's Up",
+                    "price": 0.13,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.65,
+            "sticker_craft": false
+        },
+        "fd146d30-4589-4fa6-b2f6-20f5b01883ea": {
+            "skin_name": "AK-47 | Frontside Misty (Well-Worn)",
+            "skin_price": 19.3,
+            "totalStickerPrice": 12.26,
+            "stickers": [
+                {
+                    "name": "s1mple | Krakow 2017",
+                    "price": 11.15,
+                    "slot": 1
+                },
+                {
+                    "name": "North (Holo) | 2020 RMR",
+                    "price": 0.14,
+                    "slot": 2
+                },
+                {
+                    "name": "GamerLegion (Holo) | Paris 2023",
+                    "price": 0.94,
+                    "slot": 3
+                },
+                {
+                    "name": "Spirit | 2020 RMR",
+                    "price": 0.03,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.64,
+            "sticker_craft": false
+        },
+        "64cfe5a3-7c5d-45c5-ac22-607133fc47a1": {
+            "skin_name": "AWP | Corticera (Field-Tested)",
+            "skin_price": 23.8,
+            "totalStickerPrice": 14.7,
+            "stickers": [
+                {
+                    "name": "EliGE | Cologne 2016",
+                    "price": 6.58,
+                    "slot": 1
+                },
+                {
+                    "name": "Hiko | Cologne 2016",
+                    "price": 4.22,
+                    "slot": 2
+                },
+                {
+                    "name": "fnx | Cologne 2016",
+                    "price": 3.9,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.62,
+            "sticker_craft": false
+        },
+        "1003e50b-e995-4c7c-b6f9-5953345c99c1": {
+            "skin_name": "StatTrak\u2122 AK-47 | Slate (Field-Tested)",
+            "skin_price": 19.35,
+            "totalStickerPrice": 11.76,
+            "stickers": [
+                {
+                    "name": "Lambda (Holo)",
+                    "price": 2.94,
+                    "slot": 1
+                },
+                {
+                    "name": "Lambda (Holo)",
+                    "price": 2.94,
+                    "slot": 2
+                },
+                {
+                    "name": "Lambda (Holo)",
+                    "price": 2.94,
+                    "slot": 3
+                },
+                {
+                    "name": "Lambda (Holo)",
+                    "price": 2.94,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.61,
+            "sticker_craft": true
+        },
+        "9cf07315-9531-4d39-a4b8-3a83b5685ff2": {
+            "skin_name": "StatTrak\u2122 Desert Eagle | Conspiracy (Factory New)",
+            "skin_price": 40.9,
+            "totalStickerPrice": 24.4,
+            "stickers": [
+                {
+                    "name": "Natus Vincere | Krakow 2017",
+                    "price": 1.36,
+                    "slot": 1
+                },
+                {
+                    "name": "Blaze Surf K (Foil)",
+                    "price": 7.68,
+                    "slot": 2
+                },
+                {
+                    "name": "Blaze Surf K (Foil)",
+                    "price": 7.68,
+                    "slot": 3
+                },
+                {
+                    "name": "Blaze Surf K (Foil)",
+                    "price": 7.68,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.6,
+            "sticker_craft": false
+        },
+        "d231c6a0-5090-4115-88b3-9b001c0d6329": {
+            "skin_name": "AK-47 | Black Laminate (Battle-Scarred)",
+            "skin_price": 57.11,
+            "totalStickerPrice": 33.66,
+            "stickers": [
+                {
+                    "name": "Team Immunity | Cologne 2015",
+                    "price": 7.79,
+                    "slot": 1
+                },
+                {
+                    "name": "Team Immunity | Cologne 2015",
+                    "price": 7.79,
+                    "slot": 2
+                },
+                {
+                    "name": "Team Immunity | Cologne 2015",
+                    "price": 7.79,
+                    "slot": 3
+                },
+                {
+                    "name": "Fnatic | Katowice 2015",
+                    "price": 10.29,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.59,
+            "sticker_craft": false
+        },
+        "6b8c88c9-766f-4743-973e-f0242e3858df": {
+            "skin_name": "M4A1-S | Basilisk (Factory New)",
+            "skin_price": 17.64,
+            "totalStickerPrice": 10.48,
+            "stickers": [
+                {
+                    "name": "Natus Vincere | Cluj-Napoca 2015",
+                    "price": 2.36,
+                    "slot": 1
+                },
+                {
+                    "name": "seized | Cluj-Napoca 2015",
+                    "price": 3.4,
+                    "slot": 2
+                },
+                {
+                    "name": "Natus Vincere | Cluj-Napoca 2015",
+                    "price": 2.36,
+                    "slot": 3
+                },
+                {
+                    "name": "Natus Vincere | Cluj-Napoca 2015",
+                    "price": 2.36,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.59,
+            "sticker_craft": false
+        },
+        "ddc0fe83-e887-4902-ae12-cf5954977cd5": {
+            "skin_name": "AWP | Graphite (Factory New)",
+            "skin_price": 214.82,
+            "totalStickerPrice": 124.66,
+            "stickers": [
+                {
+                    "name": "mousesports (Holo) | Boston 2018",
+                    "price": 30.72,
+                    "slot": 1
+                },
+                {
+                    "name": "Astralis (Holo) | Boston 2018",
+                    "price": 30.84,
+                    "slot": 2
+                },
+                {
+                    "name": "device (Foil) | Boston 2018",
+                    "price": 26.02,
+                    "slot": 3
+                },
+                {
+                    "name": "FaZe Clan (Holo) | Boston 2018",
+                    "price": 37.08,
+                    "slot": 4
+                },
+                {
+                    "name": "High Heat",
+                    "price": 0,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.58,
+            "sticker_craft": false
+        },
+        "6a6823ca-2262-4728-98a0-1788de80a85d": {
+            "skin_name": "AK-47 | Redline (Battle-Scarred)",
+            "skin_price": 33.52,
+            "totalStickerPrice": 19.56,
+            "stickers": [
+                {
+                    "name": "fox | Cluj-Napoca 2015",
+                    "price": 9.37,
+                    "slot": 1
+                },
+                {
+                    "name": "dennis | Cluj-Napoca 2015",
+                    "price": 4.72,
+                    "slot": 2
+                },
+                {
+                    "name": "mousesports | Cologne 2015",
+                    "price": 4.34,
+                    "slot": 3
+                },
+                {
+                    "name": "mousesports (Holo) | Berlin 2019",
+                    "price": 1.13,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.58,
+            "sticker_craft": false
+        },
+        "277923ec-3387-48cb-8761-512c1d39a8c7": {
+            "skin_name": "StatTrak\u2122 AWP | Hyper Beast (Well-Worn)",
+            "skin_price": 92.59,
+            "totalStickerPrice": 53.1,
+            "stickers": [
+                {
+                    "name": "Virtus.Pro (Holo) | Atlanta 2017",
+                    "price": 36.81,
+                    "slot": 1
+                },
+                {
+                    "name": "s1mple | Cologne 2016",
+                    "price": 16.29,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.57,
+            "sticker_craft": false
+        },
+        "13002296-5e3b-476a-b594-4ab942607aa2": {
+            "skin_name": "StatTrak\u2122 P2000 | Fire Elemental (Factory New)",
+            "skin_price": 237.6,
+            "totalStickerPrice": 134.12,
+            "stickers": [
+                {
+                    "name": "Cloud9 (Foil) | Boston 2018",
+                    "price": 134.12,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 0.56,
+            "sticker_craft": false
+        },
+        "96e8784a-4db9-460f-8116-b03be99fead2": {
+            "skin_name": "AWP | Sun in Leo (Field-Tested)",
+            "skin_price": 35.42,
+            "totalStickerPrice": 19.71,
+            "stickers": [
+                {
+                    "name": "Team EnVyUs | Atlanta 2017",
+                    "price": 4.13,
+                    "slot": 1
+                },
+                {
+                    "name": "kennyS | Atlanta 2017",
+                    "price": 14.96,
+                    "slot": 2
+                },
+                {
+                    "name": "Web Stuck",
+                    "price": 0.31,
+                    "slot": 3
+                },
+                {
+                    "name": "Web Stuck",
+                    "price": 0.31,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.56,
+            "sticker_craft": false
+        },
+        "02ff3603-6eeb-431e-8c66-f178832867dc": {
+            "skin_name": "StatTrak\u2122 MAC-10 | Curse (Factory New)",
+            "skin_price": 27.52,
+            "totalStickerPrice": 15.49,
+            "stickers": [
+                {
+                    "name": "Vega Squadron (Holo) | Boston 2018",
+                    "price": 15.49,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 0.56,
+            "sticker_craft": false
+        },
+        "ebc1faa5-bc1a-4419-9645-17b990c57e2d": {
+            "skin_name": "AWP | Corticera (Minimal Wear)",
+            "skin_price": 24.75,
+            "totalStickerPrice": 13.83,
+            "stickers": [
+                {
+                    "name": "pashaBiceps | Cologne 2015",
+                    "price": 6.4,
+                    "slot": 1
+                },
+                {
+                    "name": "byali | Cologne 2015",
+                    "price": 3.55,
+                    "slot": 2
+                },
+                {
+                    "name": "NEO | Cologne 2015",
+                    "price": 3.88,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.56,
+            "sticker_craft": false
+        },
+        "b7f8bd7b-d254-4acf-adb1-95513b47bbc5": {
+            "skin_name": "AK-47 | Redline (Field-Tested)",
+            "skin_price": 44.98,
+            "totalStickerPrice": 24.84,
+            "stickers": [
+                {
+                    "name": "rain | MLG Columbus 2016",
+                    "price": 9.3,
+                    "slot": 1
+                },
+                {
+                    "name": "jkaem | MLG Columbus 2016",
+                    "price": 3.89,
+                    "slot": 2
+                },
+                {
+                    "name": "fox | MLG Columbus 2016",
+                    "price": 7.9,
+                    "slot": 3
+                },
+                {
+                    "name": "aizy | MLG Columbus 2016",
+                    "price": 3.74,
+                    "slot": 4
+                },
+                {
+                    "name": "PGL | Stockholm 2021",
+                    "price": 0.01,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.55,
+            "sticker_craft": false
+        },
+        "3023c6fe-22af-41f7-b459-a90541d3df98": {
+            "skin_name": "StatTrak\u2122 M4A1-S | Nightmare (Well-Worn)",
+            "skin_price": 25.94,
+            "totalStickerPrice": 14.33,
+            "stickers": [
+                {
+                    "name": "Liquid Fire",
+                    "price": 6.23,
+                    "slot": 1
+                },
+                {
+                    "name": "Liquid Fire",
+                    "price": 6.23,
+                    "slot": 2
+                },
+                {
+                    "name": "Eternal Fire (Glitter) | Antwerp 2022",
+                    "price": 0.51,
+                    "slot": 3
+                },
+                {
+                    "name": "Eternal Fire (Glitter) | Antwerp 2022",
+                    "price": 0.51,
+                    "slot": 4
+                },
+                {
+                    "name": "Eternal Fire (Holo) | Copenhagen 2024",
+                    "price": 0.85,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.55,
+            "sticker_craft": false
+        },
+        "783f7d67-0bb9-42d7-bf3d-a7649cb628be": {
+            "skin_name": "AK-47 | The Outsiders (Field-Tested)",
+            "skin_price": 25.82,
+            "totalStickerPrice": 14.12,
+            "stickers": [
+                {
+                    "name": "TaZ | Cluj-Napoca 2015",
+                    "price": 3.53,
+                    "slot": 1
+                },
+                {
+                    "name": "TaZ | Cluj-Napoca 2015",
+                    "price": 3.53,
+                    "slot": 2
+                },
+                {
+                    "name": "TaZ | Cluj-Napoca 2015",
+                    "price": 3.53,
+                    "slot": 3
+                },
+                {
+                    "name": "TaZ | Cluj-Napoca 2015",
+                    "price": 3.53,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.55,
+            "sticker_craft": true
+        },
+        "09e12710-1bd0-425a-bfa3-f199e394c132": {
+            "skin_name": "AWP | Fever Dream (Minimal Wear)",
+            "skin_price": 18.76,
+            "totalStickerPrice": 10.25,
+            "stickers": [
+                {
+                    "name": "s1mple | London 2018",
+                    "price": 3.57,
+                    "slot": 1
+                },
+                {
+                    "name": "Stewie2K (Foil) | Katowice 2019",
+                    "price": 6.07,
+                    "slot": 2
+                },
+                {
+                    "name": "Get Smoked (Holo)",
+                    "price": 0.56,
+                    "slot": 3
+                },
+                {
+                    "name": "donk (Champion) | Shanghai 2024",
+                    "price": 0.05,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.55,
+            "sticker_craft": false
+        },
+        "384ea6c1-f386-47f9-84ef-bbabb031dd64": {
+            "skin_name": "M4A1-S | Atomic Alloy (Field-Tested)",
+            "skin_price": 63.39,
+            "totalStickerPrice": 34.33,
+            "stickers": [
+                {
+                    "name": "Virtus.pro | Katowice 2015",
+                    "price": 9.93,
+                    "slot": 1
+                },
+                {
+                    "name": "Virtus.Pro (Holo) | Cologne 2014",
+                    "price": 24.4,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.54,
+            "sticker_craft": false
+        },
+        "3b4544c9-da74-4abe-97f5-adbe646359dc": {
+            "skin_name": "USP-S | Whiteout (Field-Tested)",
+            "skin_price": 50.03,
+            "totalStickerPrice": 26.77,
+            "stickers": [
+                {
+                    "name": "Loving Eyes (Holo)",
+                    "price": 3.9,
+                    "slot": 1
+                },
+                {
+                    "name": "Virtus.pro | Katowice 2015",
+                    "price": 9.93,
+                    "slot": 2
+                },
+                {
+                    "name": "device | Atlanta 2017",
+                    "price": 12.94,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.54,
+            "sticker_craft": false
+        },
+        "09902daa-6a19-4aab-b303-7396bcef6ded": {
+            "skin_name": "AK-47 | Blue Laminate (Factory New)",
+            "skin_price": 21.56,
+            "totalStickerPrice": 11.67,
+            "stickers": [
+                {
+                    "name": "Natus Vincere | Krakow 2017",
+                    "price": 1.36,
+                    "slot": 1
+                },
+                {
+                    "name": "Natus Vincere | Krakow 2017",
+                    "price": 1.36,
+                    "slot": 2
+                },
+                {
+                    "name": "Natus Vincere (Holo) | London 2018",
+                    "price": 7.15,
+                    "slot": 3
+                },
+                {
+                    "name": "Natus Vincere (Foil) | Stockholm 2021",
+                    "price": 1.8,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.54,
+            "sticker_craft": false
+        },
+        "0b2f3664-2b2b-41ef-9eeb-edb1dd9bbb7e": {
+            "skin_name": "M4A1-S | Decimator (Minimal Wear)",
+            "skin_price": 27.55,
+            "totalStickerPrice": 14.29,
+            "stickers": [
+                {
+                    "name": "IEM (Foil) | Katowice 2019",
+                    "price": 6.18,
+                    "slot": 1
+                },
+                {
+                    "name": "IEM (Holo) | Katowice 2019",
+                    "price": 2.09,
+                    "slot": 2
+                },
+                {
+                    "name": "IEM (Holo) | Katowice 2019",
+                    "price": 2.09,
+                    "slot": 3
+                },
+                {
+                    "name": "Infinite Triangle (Holo)",
+                    "price": 1.78,
+                    "slot": 4
+                },
+                {
+                    "name": "Gold Web (Foil)",
+                    "price": 2.15,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.52,
+            "sticker_craft": false
+        },
+        "ad5f2696-3ef8-4693-83ea-7773520f481d": {
+            "skin_name": "StatTrak\u2122 AK-47 | Frontside Misty (Battle-Scarred)",
+            "skin_price": 51.32,
+            "totalStickerPrice": 26.4,
+            "stickers": [
+                {
+                    "name": "seang@res | Cologne 2015",
+                    "price": 3.24,
+                    "slot": 1
+                },
+                {
+                    "name": "shroud | Cologne 2015",
+                    "price": 16.85,
+                    "slot": 2
+                },
+                {
+                    "name": "n0thing | Cologne 2015",
+                    "price": 3.43,
+                    "slot": 3
+                },
+                {
+                    "name": "Cloud9 G2A | Cologne 2015",
+                    "price": 2.88,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.51,
+            "sticker_craft": false
+        },
+        "90e66fa4-51d4-45b0-8cce-a7938776fa09": {
+            "skin_name": "AK-47 | Redline (Field-Tested)",
+            "skin_price": 44.98,
+            "totalStickerPrice": 22.84,
+            "stickers": [
+                {
+                    "name": "Spiidi | Cologne 2016",
+                    "price": 6.52,
+                    "slot": 1
+                },
+                {
+                    "name": "Spiidi | Cologne 2016",
+                    "price": 6.52,
+                    "slot": 2
+                },
+                {
+                    "name": "Spiidi | Cologne 2016",
+                    "price": 6.52,
+                    "slot": 3
+                },
+                {
+                    "name": "Good Game",
+                    "price": 3.28,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.51,
+            "sticker_craft": false
+        },
+        "bdd4fadf-d79b-4922-845d-9b7b3a0c9def": {
+            "skin_name": "P2000 | Fire Elemental (Minimal Wear)",
+            "skin_price": 19.99,
+            "totalStickerPrice": 10.2,
+            "stickers": [
+                {
+                    "name": "Virtus.pro | Katowice 2015",
+                    "price": 9.93,
+                    "slot": 1
+                },
+                {
+                    "name": "Poorly Drawn Number K",
+                    "price": 0.27,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.51,
+            "sticker_craft": false
+        },
+        "d0c35877-2024-4718-b1a3-a405404b0d2e": {
+            "skin_name": "StatTrak\u2122 AWP | Fever Dream (Minimal Wear)",
+            "skin_price": 37.3,
+            "totalStickerPrice": 18.73,
+            "stickers": [
+                {
+                    "name": "Boost (Holo)",
+                    "price": 1.54,
+                    "slot": 1
+                },
+                {
+                    "name": "Boost (Holo)",
+                    "price": 1.54,
+                    "slot": 2
+                },
+                {
+                    "name": "Boost (Holo)",
+                    "price": 1.54,
+                    "slot": 3
+                },
+                {
+                    "name": "Miami Flow (Holo)",
+                    "price": 13.56,
+                    "slot": 4
+                },
+                {
+                    "name": "One Sting (Holo)",
+                    "price": 0.55,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.5,
+            "sticker_craft": false
+        },
+        "19e9c171-5c0e-462a-98e1-b24fa84884ad": {
+            "skin_name": "StatTrak\u2122 AK-47 | Blue Laminate (Factory New)",
+            "skin_price": 67.34,
+            "totalStickerPrice": 32.97,
+            "stickers": [
+                {
+                    "name": "Cloud9 G2A | Cologne 2015",
+                    "price": 2.88,
+                    "slot": 1
+                },
+                {
+                    "name": "shroud | Cologne 2015",
+                    "price": 16.85,
+                    "slot": 2
+                },
+                {
+                    "name": "Skadoodle | Cologne 2015",
+                    "price": 8.14,
+                    "slot": 3
+                },
+                {
+                    "name": "freakazoid | Cologne 2015",
+                    "price": 5.1,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.49,
+            "sticker_craft": false
+        },
+        "70e238cb-7322-43f0-aaad-0f7ba63093ee": {
+            "skin_name": "AWP | Sun in Leo (Minimal Wear)",
+            "skin_price": 41.66,
+            "totalStickerPrice": 20.42,
+            "stickers": [
+                {
+                    "name": "Hiko | Atlanta 2017",
+                    "price": 20.35,
+                    "slot": 1
+                },
+                {
+                    "name": "GamerLegion (Glitter) | Copenhagen 2024",
+                    "price": 0.07,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.49,
+            "sticker_craft": false
+        },
+        "609f1214-d820-4b07-99df-23841c925e2b": {
+            "skin_name": "M4A1-S | Guardian (Field-Tested)",
+            "skin_price": 28.29,
+            "totalStickerPrice": 13.99,
+            "stickers": [
+                {
+                    "name": "NBK- | Cluj-Napoca 2015",
+                    "price": 3.41,
+                    "slot": 1
+                },
+                {
+                    "name": "Happy | Cluj-Napoca 2015",
+                    "price": 4.13,
+                    "slot": 2
+                },
+                {
+                    "name": "apEX | Cluj-Napoca 2015",
+                    "price": 3.23,
+                    "slot": 3
+                },
+                {
+                    "name": "kioShiMa | Cluj-Napoca 2015",
+                    "price": 3.22,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.49,
+            "sticker_craft": false
+        },
+        "ffc78b44-cbdd-4c28-b33b-c18739e417ae": {
+            "skin_name": "StatTrak\u2122 USP-S | Stainless (Field-Tested)",
+            "skin_price": 27.34,
+            "totalStickerPrice": 13.33,
+            "stickers": [
+                {
+                    "name": "fnx | Cologne 2016",
+                    "price": 3.9,
+                    "slot": 1
+                },
+                {
+                    "name": "FalleN | Cologne 2016",
+                    "price": 9.35,
+                    "slot": 2
+                },
+                {
+                    "name": "Astralis | Antwerp 2022",
+                    "price": 0.04,
+                    "slot": 3
+                },
+                {
+                    "name": "Astralis | Antwerp 2022",
+                    "price": 0.04,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.49,
+            "sticker_craft": false
+        },
+        "653f8dd7-39ee-4d88-a3f4-12dc6b00cccd": {
+            "skin_name": "StatTrak\u2122 AWP | Elite Build (Minimal Wear)",
+            "skin_price": 66.58,
+            "totalStickerPrice": 31.04,
+            "stickers": [
+                {
+                    "name": "Lucky 13 (Foil)",
+                    "price": 7.76,
+                    "slot": 1
+                },
+                {
+                    "name": "Lucky 13 (Foil)",
+                    "price": 7.76,
+                    "slot": 2
+                },
+                {
+                    "name": "Lucky 13 (Foil)",
+                    "price": 7.76,
+                    "slot": 3
+                },
+                {
+                    "name": "Lucky 13 (Foil)",
+                    "price": 7.76,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.47,
+            "sticker_craft": true
+        },
+        "259157a8-1213-4f25-b5f1-257667eac628": {
+            "skin_name": "USP-S | Kill Confirmed (Well-Worn)",
+            "skin_price": 65.04,
+            "totalStickerPrice": 30.73,
+            "stickers": [
+                {
+                    "name": "Health (Gold)",
+                    "price": 11.87,
+                    "slot": 1
+                },
+                {
+                    "name": "TaZ (Foil) | Boston 2018",
+                    "price": 3.69,
+                    "slot": 2
+                },
+                {
+                    "name": "dennis (Foil) | MLG Columbus 2016",
+                    "price": 15.17,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.47,
+            "sticker_craft": false
+        },
+        "26180aa9-b69b-42e2-8590-d5d232725b9f": {
+            "skin_name": "M4A1-S | Bright Water (Minimal Wear)",
+            "skin_price": 45.62,
+            "totalStickerPrice": 21.57,
+            "stickers": [
+                {
+                    "name": "Luminosity Gaming | MLG Columbus 2016",
+                    "price": 7.19,
+                    "slot": 1
+                },
+                {
+                    "name": "Luminosity Gaming | MLG Columbus 2016",
+                    "price": 7.19,
+                    "slot": 2
+                },
+                {
+                    "name": "Luminosity Gaming | MLG Columbus 2016",
+                    "price": 7.19,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.47,
+            "sticker_craft": false
+        },
+        "afd83e14-6a7c-48d2-b03f-3cd91cfa8aba": {
+            "skin_name": "Desert Eagle | Kumicho Dragon (Battle-Scarred)",
+            "skin_price": 26.11,
+            "totalStickerPrice": 11.69,
+            "stickers": [
+                {
+                    "name": "Natus Vincere | 2020 RMR",
+                    "price": 0.01,
+                    "slot": 1
+                },
+                {
+                    "name": "My Other Awp",
+                    "price": 0.53,
+                    "slot": 2
+                },
+                {
+                    "name": "s1mple | Krakow 2017",
+                    "price": 11.15,
+                    "slot": 3
+                },
+                {
+                    "name": "b1t (Glitter",
+                    "price": 0,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.45,
+            "sticker_craft": false
+        },
+        "4888f65d-1b1e-4813-aadb-b3a989b896e3": {
+            "skin_name": "M4A1-S | Cyrex (Minimal Wear)",
+            "skin_price": 45.24,
+            "totalStickerPrice": 19.91,
+            "stickers": [
+                {
+                    "name": "MTS GameGod Wolf | Cologne 2014",
+                    "price": 4.08,
+                    "slot": 1
+                },
+                {
+                    "name": "Natus Vincere | Cologne 2015",
+                    "price": 3.52,
+                    "slot": 2
+                },
+                {
+                    "name": "Xizt | Cologne 2015",
+                    "price": 2.37,
+                    "slot": 3
+                },
+                {
+                    "name": "Virtus.pro | Katowice 2015",
+                    "price": 9.93,
+                    "slot": 4
+                },
+                {
+                    "name": "MOUZ | Copenhagen 2024",
+                    "price": 0.01,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.44,
+            "sticker_craft": false
+        },
+        "1fea0317-5e34-4de3-ab5f-b11174d128d7": {
+            "skin_name": "Desert Eagle | Code Red (Field-Tested)",
+            "skin_price": 30.83,
+            "totalStickerPrice": 13.48,
+            "stickers": [
+                {
+                    "name": "GuardiaN (Foil) | Katowice 2019",
+                    "price": 2.86,
+                    "slot": 1
+                },
+                {
+                    "name": "FaZe Clan (Foil) | Katowice 2019",
+                    "price": 10.62,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.44,
+            "sticker_craft": false
+        },
+        "de3b8988-58fc-417d-b896-cea7d3637104": {
+            "skin_name": "StatTrak\u2122 USP-S | Jawbreaker (Field-Tested)",
+            "skin_price": 23.18,
+            "totalStickerPrice": 10.16,
+            "stickers": [
+                {
+                    "name": "Virtus.pro | Katowice 2015",
+                    "price": 9.93,
+                    "slot": 1
+                },
+                {
+                    "name": "floppy (Holo) | Paris 2023",
+                    "price": 0.23,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.44,
+            "sticker_craft": false
+        },
+        "f9a94381-4db5-4aae-a9ea-8955630e4292": {
+            "skin_name": "M4A4 | Asiimov (Battle-Scarred)",
+            "skin_price": 136.04,
+            "totalStickerPrice": 57.99,
+            "stickers": [
+                {
+                    "name": "dennis (Foil) | Cologne 2016",
+                    "price": 57.89,
+                    "slot": 1
+                },
+                {
+                    "name": "frozen | Copenhagen 2024",
+                    "price": 0,
+                    "slot": 2
+                },
+                {
+                    "name": "broky | Copenhagen 2024",
+                    "price": 0.01,
+                    "slot": 3
+                },
+                {
+                    "name": "9INE | Paris 2023",
+                    "price": 0.01,
+                    "slot": 4
+                },
+                {
+                    "name": "oskar | Berlin 2019",
+                    "price": 0.08,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.43,
+            "sticker_craft": false
+        },
+        "787d0b7a-cb3a-4b5d-b4c3-574caf9437cf": {
+            "skin_name": "Glock-18 | Gold Toof (Battle-Scarred)",
+            "skin_price": 24.05,
+            "totalStickerPrice": 10.37,
+            "stickers": [
+                {
+                    "name": "Googly Eye (Lenticular)",
+                    "price": 10.37,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 0.43,
+            "sticker_craft": false
+        },
+        "90cf4537-88ba-4c5b-942f-c75c6999d705": {
+            "skin_name": "AWP | Corticera (Field-Tested)",
+            "skin_price": 23.8,
+            "totalStickerPrice": 10.25,
+            "stickers": [
+                {
+                    "name": "kennyS | Cologne 2015",
+                    "price": 9.42,
+                    "slot": 1
+                },
+                {
+                    "name": "Drug War Veteran",
+                    "price": 0.83,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.43,
+            "sticker_craft": false
+        },
+        "d1dc3ccd-6575-4899-8abe-dc1fd9c0e8f6": {
+            "skin_name": "Desert Eagle | Printstream (Field-Tested)",
+            "skin_price": 50.06,
+            "totalStickerPrice": 20.72,
+            "stickers": [
+                {
+                    "name": "Extermination",
+                    "price": 0.56,
+                    "slot": 1
+                },
+                {
+                    "name": "Liquid Fire (Holo)",
+                    "price": 19.19,
+                    "slot": 2
+                },
+                {
+                    "name": "Hello MP9 (Gold)",
+                    "price": 0.97,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.41,
+            "sticker_craft": false
+        },
+        "9a3a6ef9-d478-4ff3-80f8-12bb04b85835": {
+            "skin_name": "AWP | Pink DDPAT (Minimal Wear)",
+            "skin_price": 63.7,
+            "totalStickerPrice": 25.43,
+            "stickers": [
+                {
+                    "name": "jdm64 | Cologne 2016",
+                    "price": 3.81,
+                    "slot": 1
+                },
+                {
+                    "name": "Skadoodle | Cologne 2015",
+                    "price": 8.14,
+                    "slot": 2
+                },
+                {
+                    "name": "s1mple | MLG Columbus 2016",
+                    "price": 13.48,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.4,
+            "sticker_craft": false
+        },
+        "92baabf7-85d8-47cc-b8be-f44272c42f91": {
+            "skin_name": "M4A1-S | Black Lotus (Factory New)",
+            "skin_price": 34.6,
+            "totalStickerPrice": 13.93,
+            "stickers": [
+                {
+                    "name": "Killjoy (Holo)",
+                    "price": 2.37,
+                    "slot": 1
+                },
+                {
+                    "name": "Ace Devil (Foil)",
+                    "price": 2.77,
+                    "slot": 2
+                },
+                {
+                    "name": "Lotus (Glitter)",
+                    "price": 5.85,
+                    "slot": 3
+                },
+                {
+                    "name": "First Blood",
+                    "price": 2.37,
+                    "slot": 4
+                },
+                {
+                    "name": "Baby Medusa",
+                    "price": 0.57,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.4,
+            "sticker_craft": false
+        },
+        "95ca7ea2-dd30-4373-bdd7-2251ab6ebe84": {
+            "skin_name": "StatTrak\u2122 AK-47 | Wasteland Rebel (Minimal Wear)",
+            "skin_price": 201.29,
+            "totalStickerPrice": 78.82,
+            "stickers": [
+                {
+                    "name": "Team Immunity | Cologne 2015",
+                    "price": 7.79,
+                    "slot": 1
+                },
+                {
+                    "name": "Vox Eminor  | Katowice 2015",
+                    "price": 60.26,
+                    "slot": 2
+                },
+                {
+                    "name": "Showdown (Foil)",
+                    "price": 3.59,
+                    "slot": 3
+                },
+                {
+                    "name": "Showdown (Foil)",
+                    "price": 3.59,
+                    "slot": 4
+                },
+                {
+                    "name": "Showdown (Foil)",
+                    "price": 3.59,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.39,
+            "sticker_craft": false
+        },
+        "6b4fe0cf-2aef-48a2-8d3f-c23f9bebdbae": {
+            "skin_name": "M4A1-S | Cyrex (Field-Tested)",
+            "skin_price": 32.7,
+            "totalStickerPrice": 12.59,
+            "stickers": [
+                {
+                    "name": "jkaem | Cluj-Napoca 2015",
+                    "price": 7.54,
+                    "slot": 1
+                },
+                {
+                    "name": "G2 Esports | Cluj-Napoca 2015",
+                    "price": 5.01,
+                    "slot": 2
+                },
+                {
+                    "name": "100 Thieves (Holo) | 2020 RMR",
+                    "price": 0.04,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.39,
+            "sticker_craft": false
+        },
+        "f22ff5fe-5f89-4289-aed8-8415facc2d17": {
+            "skin_name": "Desert Eagle | Kumicho Dragon (Minimal Wear)",
+            "skin_price": 35.52,
+            "totalStickerPrice": 13.67,
+            "stickers": [
+                {
+                    "name": "Bolt Strike (Foil)",
+                    "price": 2.07,
+                    "slot": 1
+                },
+                {
+                    "name": "Bolt Charge (Foil)",
+                    "price": 2.9,
+                    "slot": 2
+                },
+                {
+                    "name": "Bolt Charge (Foil)",
+                    "price": 2.9,
+                    "slot": 3
+                },
+                {
+                    "name": "Bolt Charge (Foil)",
+                    "price": 2.9,
+                    "slot": 4
+                },
+                {
+                    "name": "Bolt Charge (Foil)",
+                    "price": 2.9,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.38,
+            "sticker_craft": false
+        },
+        "00f38bcb-8cab-44c4-a0b2-64cba813cd58": {
+            "skin_name": "AWP | Sun in Leo (Field-Tested)",
+            "skin_price": 35.42,
+            "totalStickerPrice": 13.29,
+            "stickers": [
+                {
+                    "name": "Virtus.Pro (Holo) | Cologne 2016",
+                    "price": 8.68,
+                    "slot": 1
+                },
+                {
+                    "name": "BIG (Holo) | Krakow 2017",
+                    "price": 4.6,
+                    "slot": 2
+                },
+                {
+                    "name": "Snax | Shanghai 2024",
+                    "price": 0.01,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.38,
+            "sticker_craft": false
+        },
+        "075233f1-03da-47c7-ab1f-74aa5f3c575f": {
+            "skin_name": "StatTrak\u2122 SG 553 | Ultraviolet (Field-Tested)",
+            "skin_price": 46.53,
+            "totalStickerPrice": 17.12,
+            "stickers": [
+                {
+                    "name": "HellRaisers | Cologne 2014",
+                    "price": 8.56,
+                    "slot": 1
+                },
+                {
+                    "name": "HellRaisers | Cologne 2014",
+                    "price": 8.56,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.37,
+            "sticker_craft": false
+        },
+        "3b896aba-8d86-488d-88aa-ba1c05e97d83": {
+            "skin_name": "StatTrak\u2122 Desert Eagle | Conspiracy (Minimal Wear)",
+            "skin_price": 27.78,
+            "totalStickerPrice": 10.24,
+            "stickers": [
+                {
+                    "name": "Ancient Beast (Foil)",
+                    "price": 0.88,
+                    "slot": 1
+                },
+                {
+                    "name": "SAW (Gold) | Copenhagen 2024",
+                    "price": 4.68,
+                    "slot": 2
+                },
+                {
+                    "name": "SAW (Gold) | Copenhagen 2024",
+                    "price": 4.68,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.37,
+            "sticker_craft": false
+        },
+        "e000ea08-2020-4e4b-bed9-a0bd2ec597cb": {
+            "skin_name": "StatTrak\u2122 Glock-18 | Royal Legion (Factory New)",
+            "skin_price": 46.92,
+            "totalStickerPrice": 17.0,
+            "stickers": [
+                {
+                    "name": "Virtus.Pro (Foil) | Krakow 2017",
+                    "price": 16.36,
+                    "slot": 1
+                },
+                {
+                    "name": "Apeks (Glitter) | Copenhagen 2024",
+                    "price": 0.16,
+                    "slot": 2
+                },
+                {
+                    "name": "Apeks (Glitter) | Copenhagen 2024",
+                    "price": 0.16,
+                    "slot": 3
+                },
+                {
+                    "name": "Apeks (Glitter) | Copenhagen 2024",
+                    "price": 0.16,
+                    "slot": 4
+                },
+                {
+                    "name": "Apeks (Glitter) | Copenhagen 2024",
+                    "price": 0.16,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.36,
+            "sticker_craft": false
+        },
+        "7d1cd5f8-7790-4559-bac1-058f76792c94": {
+            "skin_name": "Desert Eagle | Code Red (Well-Worn)",
+            "skin_price": 28.91,
+            "totalStickerPrice": 10.5,
+            "stickers": [
+                {
+                    "name": "compLexity Gaming | London 2018",
+                    "price": 3.5,
+                    "slot": 1
+                },
+                {
+                    "name": "compLexity Gaming | London 2018",
+                    "price": 3.5,
+                    "slot": 2
+                },
+                {
+                    "name": "compLexity Gaming | London 2018",
+                    "price": 3.5,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.36,
+            "sticker_craft": false
+        },
+        "78f8d200-74cf-4af1-abbb-0d22576af49c": {
+            "skin_name": "AK-47 | Aquamarine Revenge (Well-Worn)",
+            "skin_price": 37.93,
+            "totalStickerPrice": 12.83,
+            "stickers": [
+                {
+                    "name": "MLG | MLG Columbus 2016",
+                    "price": 7.6,
+                    "slot": 1
+                },
+                {
+                    "name": "Virtus.Pro | Atlanta 2017",
+                    "price": 5.23,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.34,
+            "sticker_craft": false
+        },
+        "8f4d52b0-6414-4edc-8b3b-79e3ca7318ca": {
+            "skin_name": "Desert Eagle | Kumicho Dragon (Minimal Wear)",
+            "skin_price": 35.52,
+            "totalStickerPrice": 11.82,
+            "stickers": [
+                {
+                    "name": "Bolt Strike (Foil)",
+                    "price": 2.07,
+                    "slot": 1
+                },
+                {
+                    "name": "Bolt Charge (Foil)",
+                    "price": 2.9,
+                    "slot": 2
+                },
+                {
+                    "name": "Bolt Charge (Foil)",
+                    "price": 2.9,
+                    "slot": 3
+                },
+                {
+                    "name": "Bolt Charge (Foil)",
+                    "price": 2.9,
+                    "slot": 4
+                },
+                {
+                    "name": "Bolt Energy (Foil)",
+                    "price": 1.05,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.33,
+            "sticker_craft": false
+        },
+        "48c06029-788c-483b-a2dd-47f7419c0c72": {
+            "skin_name": "StatTrak\u2122 AK-47 | Elite Build (Factory New)",
+            "skin_price": 40.8,
+            "totalStickerPrice": 12.94,
+            "stickers": [
+                {
+                    "name": "Abalone Strafe (Holo)",
+                    "price": 4.39,
+                    "slot": 1
+                },
+                {
+                    "name": "Toxic Flow (Holo)",
+                    "price": 8.55,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.32,
+            "sticker_craft": false
+        },
+        "fa7c6096-1ffe-4f6e-8c9d-b22bff5efeff": {
+            "skin_name": "StatTrak\u2122 AK-47 | The Empress (Well-Worn)",
+            "skin_price": 104.42,
+            "totalStickerPrice": 32.57,
+            "stickers": [
+                {
+                    "name": "SK Gaming (Holo) | Krakow 2017",
+                    "price": 8.14,
+                    "slot": 1
+                },
+                {
+                    "name": "SK Gaming (Holo) | Krakow 2017",
+                    "price": 8.14,
+                    "slot": 2
+                },
+                {
+                    "name": "SK Gaming (Holo) | Krakow 2017",
+                    "price": 8.14,
+                    "slot": 3
+                },
+                {
+                    "name": "SK Gaming (Holo) | Krakow 2017",
+                    "price": 8.14,
+                    "slot": 4
+                },
+                {
+                    "name": "Into The Breach | Paris 2023",
+                    "price": 0.01,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.31,
+            "sticker_craft": true
+        },
+        "b7739b69-5607-4678-a769-c062f14f988b": {
+            "skin_name": "CZ75-Auto | Emerald (Factory New)",
+            "skin_price": 58.72,
+            "totalStickerPrice": 18.35,
+            "stickers": [
+                {
+                    "name": "Flipsid3 Tactics (Holo) | Krakow 2017",
+                    "price": 18.35,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 0.31,
+            "sticker_craft": false
+        },
+        "dcedbd0f-87e2-4d6a-84f1-e201bec4c70c": {
+            "skin_name": "AWP | Chrome Cannon (Well-Worn)",
+            "skin_price": 42.35,
+            "totalStickerPrice": 13.2,
+            "stickers": [
+                {
+                    "name": "Battle Scarred (Holo)",
+                    "price": 6.6,
+                    "slot": 1
+                },
+                {
+                    "name": "Battle Scarred (Holo)",
+                    "price": 6.6,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.31,
+            "sticker_craft": false
+        },
+        "a5dcf6b9-b449-4d0d-b73b-fdf27eadf21f": {
+            "skin_name": "M4A1-S | Mecha Industries (Field-Tested)",
+            "skin_price": 42.1,
+            "totalStickerPrice": 13.26,
+            "stickers": [
+                {
+                    "name": "DickStacy | Berlin 2019",
+                    "price": 12.57,
+                    "slot": 1
+                },
+                {
+                    "name": "BIG | Krakow 2017",
+                    "price": 0.69,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.31,
+            "sticker_craft": false
+        },
+        "5ea88e38-db64-4b41-a49b-2cfd05f630e9": {
+            "skin_name": "USP-S | Printstream (Battle-Scarred)",
+            "skin_price": 40.67,
+            "totalStickerPrice": 12.8,
+            "stickers": [
+                {
+                    "name": "FURIA (Holo) | Stockholm 2021",
+                    "price": 3.17,
+                    "slot": 1
+                },
+                {
+                    "name": "KSCERATO (Holo) | Antwerp 2022",
+                    "price": 0.85,
+                    "slot": 2
+                },
+                {
+                    "name": "FURIA (Holo) | Antwerp 2022",
+                    "price": 4.39,
+                    "slot": 3
+                },
+                {
+                    "name": "FURIA (Holo) | Antwerp 2022",
+                    "price": 4.39,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.31,
+            "sticker_craft": false
+        },
+        "8aa92046-6867-4e6d-aaf9-c8bae2dd9144": {
+            "skin_name": "USP-S | Printstream (Battle-Scarred)",
+            "skin_price": 40.67,
+            "totalStickerPrice": 12.53,
+            "stickers": [
+                {
+                    "name": "Lotus (Glitter)",
+                    "price": 5.85,
+                    "slot": 1
+                },
+                {
+                    "name": "Lotus (Glitter)",
+                    "price": 5.85,
+                    "slot": 2
+                },
+                {
+                    "name": "Team Spirit (Holo) | Copenhagen 2024",
+                    "price": 0.74,
+                    "slot": 3
+                },
+                {
+                    "name": "Complexity Gaming (Glitter) | Copenhagen 2024",
+                    "price": 0.09,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.31,
+            "sticker_craft": false
+        },
+        "e642345e-201d-426d-956f-32b725f1935e": {
+            "skin_name": "USP-S | Overgrowth (Minimal Wear)",
+            "skin_price": 42.97,
+            "totalStickerPrice": 12.81,
+            "stickers": [
+                {
+                    "name": "NAF | Cologne 2016",
+                    "price": 12.81,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 0.3,
+            "sticker_craft": false
+        },
+        "b6e6d433-6dd5-4111-b5ae-e55739a0848c": {
+            "skin_name": "StatTrak\u2122 M4A4 | Temukau (Field-Tested)",
+            "skin_price": 38.39,
+            "totalStickerPrice": 11.36,
+            "stickers": [
+                {
+                    "name": "Loving Eyes (Holo)",
+                    "price": 3.9,
+                    "slot": 1
+                },
+                {
+                    "name": "stanislaw | Katowice 2019",
+                    "price": 0.35,
+                    "slot": 2
+                },
+                {
+                    "name": "shox | Krakow 2017",
+                    "price": 2.03,
+                    "slot": 3
+                },
+                {
+                    "name": "Happy | Cluj-Napoca 2015",
+                    "price": 4.13,
+                    "slot": 4
+                },
+                {
+                    "name": "Assassin",
+                    "price": 0.95,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.3,
+            "sticker_craft": false
+        },
+        "07c79d2d-8384-40f3-a5b0-ac38a3e8dc25": {
+            "skin_name": "AK-47 | Bloodsport (Field-Tested)",
+            "skin_price": 220.26,
+            "totalStickerPrice": 63.28,
+            "stickers": [
+                {
+                    "name": "rain | Cologne 2016",
+                    "price": 49.98,
+                    "slot": 1
+                },
+                {
+                    "name": "kioShiMa | Cologne 2016",
+                    "price": 7.78,
+                    "slot": 2
+                },
+                {
+                    "name": "aizy | Cologne 2016",
+                    "price": 5.31,
+                    "slot": 3
+                },
+                {
+                    "name": "ZywOo (Glitter) | Shanghai 2024",
+                    "price": 0.21,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.29,
+            "sticker_craft": false
+        },
+        "32c3e800-9d28-4089-8e9a-5595fde1eef6": {
+            "skin_name": "M4A4 | Cyber Security (Factory New)",
+            "skin_price": 95.38,
+            "totalStickerPrice": 28.01,
+            "stickers": [
+                {
+                    "name": "Coiled Strike (Holo)",
+                    "price": 1.13,
+                    "slot": 1
+                },
+                {
+                    "name": "Stupid Banana (Foil)",
+                    "price": 20.28,
+                    "slot": 2
+                },
+                {
+                    "name": "Battle Scarred (Holo)",
+                    "price": 6.6,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.29,
+            "sticker_craft": false
+        },
+        "d10ec730-df53-4461-b0c0-a0182a74ebd7": {
+            "skin_name": "M4A1-S | Mecha Industries (Minimal Wear)",
+            "skin_price": 80.8,
+            "totalStickerPrice": 23.8,
+            "stickers": [
+                {
+                    "name": "FaZe Clan (Foil) | MLG Columbus 2016",
+                    "price": 23.8,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 0.29,
+            "sticker_craft": false
+        },
+        "092027e3-5646-4e75-aac8-f198e0abc7a8": {
+            "skin_name": "StatTrak\u2122 AK-47 | Blue Laminate (Field-Tested)",
+            "skin_price": 44.32,
+            "totalStickerPrice": 12.82,
+            "stickers": [
+                {
+                    "name": "Cloud9 (Holo) | Katowice 2019",
+                    "price": 9.55,
+                    "slot": 1
+                },
+                {
+                    "name": "FaZe Clan (Holo) | Paris 2023",
+                    "price": 0.56,
+                    "slot": 2
+                },
+                {
+                    "name": "FaZe Clan (Holo) | Paris 2023",
+                    "price": 0.56,
+                    "slot": 3
+                },
+                {
+                    "name": "Gold Web (Foil)",
+                    "price": 2.15,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.29,
+            "sticker_craft": false
+        },
+        "15b2e8d4-2aa0-4d5e-8469-ebc38c99a127": {
+            "skin_name": "StatTrak\u2122 AK-47 | Vulcan (Battle-Scarred)",
+            "skin_price": 286.42,
+            "totalStickerPrice": 81.03,
+            "stickers": [
+                {
+                    "name": "pashaBiceps (Foil) | Boston 2018",
+                    "price": 8.38,
+                    "slot": 1
+                },
+                {
+                    "name": "pashaBiceps (Foil) | Cologne 2015",
+                    "price": 24.25,
+                    "slot": 2
+                },
+                {
+                    "name": "pashaBiceps (Foil) | Krakow 2017",
+                    "price": 21.98,
+                    "slot": 3
+                },
+                {
+                    "name": "pashaBiceps (Foil) | Cologne 2016",
+                    "price": 26.42,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.28,
+            "sticker_craft": false
+        },
+        "d0b758b2-bee4-4f07-9c71-d1f1d18c233d": {
+            "skin_name": "SSG 08 | Blood in the Water (Minimal Wear)",
+            "skin_price": 70.25,
+            "totalStickerPrice": 19.98,
+            "stickers": [
+                {
+                    "name": "Battle Scarred",
+                    "price": 3.13,
+                    "slot": 1
+                },
+                {
+                    "name": "shroud | Cologne 2015",
+                    "price": 16.85,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.28,
+            "sticker_craft": false
+        },
+        "d67717c0-c8d7-4e85-a0f0-5c7ca4142ed2": {
+            "skin_name": "AK-47 | Jaguar (Field-Tested)",
+            "skin_price": 115.29,
+            "totalStickerPrice": 30.77,
+            "stickers": [
+                {
+                    "name": "Luminosity Gaming | MLG Columbus 2016",
+                    "price": 7.19,
+                    "slot": 1
+                },
+                {
+                    "name": "steel (Foil) | Cologne 2015",
+                    "price": 11.63,
+                    "slot": 2
+                },
+                {
+                    "name": "boltz (Foil) | Cologne 2015",
+                    "price": 11.95,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.27,
+            "sticker_craft": false
+        },
+        "0f304c2c-5ece-4fca-8a42-5809b77072f4": {
+            "skin_name": "StatTrak\u2122 AK-47 | Orbit Mk01 (Minimal Wear)",
+            "skin_price": 84.53,
+            "totalStickerPrice": 22.96,
+            "stickers": [
+                {
+                    "name": "mousesports | Cluj-Napoca 2015",
+                    "price": 5.74,
+                    "slot": 1
+                },
+                {
+                    "name": "mousesports | Cluj-Napoca 2015",
+                    "price": 5.74,
+                    "slot": 2
+                },
+                {
+                    "name": "mousesports | Cluj-Napoca 2015",
+                    "price": 5.74,
+                    "slot": 3
+                },
+                {
+                    "name": "mousesports | Cluj-Napoca 2015",
+                    "price": 5.74,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.27,
+            "sticker_craft": true
+        },
+        "a0bb93d2-df0c-4eee-a0be-c159b4e9df03": {
+            "skin_name": "StatTrak\u2122 AK-47 | Slate (Factory New)",
+            "skin_price": 65.48,
+            "totalStickerPrice": 17.72,
+            "stickers": [
+                {
+                    "name": "G2 (Gold) | 2020 RMR",
+                    "price": 4.43,
+                    "slot": 1
+                },
+                {
+                    "name": "G2 (Gold) | 2020 RMR",
+                    "price": 4.43,
+                    "slot": 2
+                },
+                {
+                    "name": "G2 (Gold) | 2020 RMR",
+                    "price": 4.43,
+                    "slot": 3
+                },
+                {
+                    "name": "G2 (Gold) | 2020 RMR",
+                    "price": 4.43,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.27,
+            "sticker_craft": true
+        },
+        "c354d308-b43a-4725-a659-24d1f805620b": {
+            "skin_name": "StatTrak\u2122 M4A1-S | Hyper Beast (Battle-Scarred)",
+            "skin_price": 64.13,
+            "totalStickerPrice": 17.49,
+            "stickers": [
+                {
+                    "name": "Team EnVyUs (Holo) | MLG Columbus 2016",
+                    "price": 17.49,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 0.27,
+            "sticker_craft": false
+        },
+        "d5e9f54e-e559-4e91-aae8-abb04ed0a5b4": {
+            "skin_name": "Tec-9 | Brass (Factory New)",
+            "skin_price": 54.49,
+            "totalStickerPrice": 14.8,
+            "stickers": [
+                {
+                    "name": "Stone Scales (Foil)",
+                    "price": 3.7,
+                    "slot": 1
+                },
+                {
+                    "name": "Stone Scales (Foil)",
+                    "price": 3.7,
+                    "slot": 2
+                },
+                {
+                    "name": "Stone Scales (Foil)",
+                    "price": 3.7,
+                    "slot": 3
+                },
+                {
+                    "name": "Stone Scales (Foil)",
+                    "price": 3.7,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.27,
+            "sticker_craft": true
+        },
+        "97624398-acde-4911-97a2-cdc9dfe127b2": {
+            "skin_name": "AWP | Elite Build (Factory New)",
+            "skin_price": 46.26,
+            "totalStickerPrice": 12.71,
+            "stickers": [
+                {
+                    "name": "Natus Vincere (Holo) | Cologne 2016",
+                    "price": 9.59,
+                    "slot": 1
+                },
+                {
+                    "name": "Natus Vincere (Foil) | Berlin 2019",
+                    "price": 3.12,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.27,
+            "sticker_craft": false
+        },
+        "067650df-35ad-4770-a3d9-ab2db4eb42ec": {
+            "skin_name": "StatTrak\u2122 Dual Berettas | Cobra Strike (Well-Worn)",
+            "skin_price": 85.06,
+            "totalStickerPrice": 22.27,
+            "stickers": [
+                {
+                    "name": "Zeus | Cluj-Napoca 2015",
+                    "price": 5.06,
+                    "slot": 1
+                },
+                {
+                    "name": "Max",
+                    "price": 0.17,
+                    "slot": 2
+                },
+                {
+                    "name": "Zeus (Foil) | Krakow 2017",
+                    "price": 11.98,
+                    "slot": 3
+                },
+                {
+                    "name": "Zeus | Cluj-Napoca 2015",
+                    "price": 5.06,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.26,
+            "sticker_craft": false
+        },
+        "735430b7-e167-4120-a48d-8386f12f8072": {
+            "skin_name": "AK-47 | Redline (Field-Tested)",
+            "skin_price": 44.98,
+            "totalStickerPrice": 11.76,
+            "stickers": [
+                {
+                    "name": "Lambda (Holo)",
+                    "price": 2.94,
+                    "slot": 1
+                },
+                {
+                    "name": "Lambda (Holo)",
+                    "price": 2.94,
+                    "slot": 2
+                },
+                {
+                    "name": "Lambda (Holo)",
+                    "price": 2.94,
+                    "slot": 3
+                },
+                {
+                    "name": "Lambda (Holo)",
+                    "price": 2.94,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.26,
+            "sticker_craft": true
+        },
+        "8fe2b3af-9b6d-4150-8144-c4e06b1ed388": {
+            "skin_name": "USP-S | Printstream (Battle-Scarred)",
+            "skin_price": 40.67,
+            "totalStickerPrice": 10.76,
+            "stickers": [
+                {
+                    "name": "Blue Gem (Glitter)",
+                    "price": 2.67,
+                    "slot": 1
+                },
+                {
+                    "name": "Blue Gem (Glitter)",
+                    "price": 2.67,
+                    "slot": 2
+                },
+                {
+                    "name": "Blue Gem (Glitter)",
+                    "price": 2.67,
+                    "slot": 3
+                },
+                {
+                    "name": "Blue Gem (Glitter)",
+                    "price": 2.67,
+                    "slot": 4
+                },
+                {
+                    "name": "Sprout Esports | Rio 2022",
+                    "price": 0.08,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.26,
+            "sticker_craft": true
+        },
+        "c4aa3775-20d2-4c50-b982-dc3f7735d6b9": {
+            "skin_name": "StatTrak\u2122 AK-47 | Aquamarine Revenge (Battle-Scarred)",
+            "skin_price": 93.3,
+            "totalStickerPrice": 23.45,
+            "stickers": [
+                {
+                    "name": "Headshot Guarantee",
+                    "price": 0.67,
+                    "slot": 1
+                },
+                {
+                    "name": "ScreaM | Cologne 2015",
+                    "price": 10.2,
+                    "slot": 2
+                },
+                {
+                    "name": "Virtus.pro | Katowice 2015",
+                    "price": 9.93,
+                    "slot": 3
+                },
+                {
+                    "name": "Lurker (Foil)",
+                    "price": 1.47,
+                    "slot": 4
+                },
+                {
+                    "name": "bodyy (Holo) | Shanghai 2024",
+                    "price": 1.18,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.25,
+            "sticker_craft": false
+        },
+        "f4a6e457-f8f6-413a-9d90-e598a2bb0abb": {
+            "skin_name": "M4A4 | Hellfire (Field-Tested)",
+            "skin_price": 73.96,
+            "totalStickerPrice": 18.82,
+            "stickers": [
+                {
+                    "name": "Xyp9x (Foil) | London 2018",
+                    "price": 6.29,
+                    "slot": 1
+                },
+                {
+                    "name": "Kill Count (Holo)",
+                    "price": 4.62,
+                    "slot": 2
+                },
+                {
+                    "name": "HellRaisers | Atlanta 2017",
+                    "price": 7.91,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.25,
+            "sticker_craft": false
+        },
+        "ba7fff5c-93c0-4acf-ad96-b2666d395e7c": {
+            "skin_name": "Desert Eagle | Crimson Web (Minimal Wear)",
+            "skin_price": 50.63,
+            "totalStickerPrice": 12.75,
+            "stickers": [
+                {
+                    "name": "Incineration (Holo)",
+                    "price": 2.55,
+                    "slot": 1
+                },
+                {
+                    "name": "Incineration (Holo)",
+                    "price": 2.55,
+                    "slot": 2
+                },
+                {
+                    "name": "Incineration (Holo)",
+                    "price": 2.55,
+                    "slot": 3
+                },
+                {
+                    "name": "Incineration (Holo)",
+                    "price": 2.55,
+                    "slot": 4
+                },
+                {
+                    "name": "Incineration (Holo)",
+                    "price": 2.55,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.25,
+            "sticker_craft": true
+        },
+        "769d479f-2e8c-45de-a906-0867c81efb4c": {
+            "skin_name": "StatTrak\u2122 AUG | Wings (Factory New)",
+            "skin_price": 48.54,
+            "totalStickerPrice": 12.32,
+            "stickers": [
+                {
+                    "name": "Distinguished Master Guardian",
+                    "price": 0.04,
+                    "slot": 1
+                },
+                {
+                    "name": "Master Guardian",
+                    "price": 0.02,
+                    "slot": 2
+                },
+                {
+                    "name": "Master Guardian Elite",
+                    "price": 0.08,
+                    "slot": 3
+                },
+                {
+                    "name": "Team Immunity (Foil) | Cologne 2015",
+                    "price": 12.18,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.25,
+            "sticker_craft": false
+        },
+        "712002e9-c8d2-4944-ad18-bfd7cb00c504": {
+            "skin_name": "USP-S | Printstream (Battle-Scarred)",
+            "skin_price": 40.67,
+            "totalStickerPrice": 10.14,
+            "stickers": [
+                {
+                    "name": "G2 Esports (Holo) | Krakow 2017",
+                    "price": 10.14,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 0.25,
+            "sticker_craft": false
+        },
+        "8e885150-7724-4589-908a-be2a53a973e9": {
+            "skin_name": "M4A1-S | Mecha Industries (Minimal Wear)",
+            "skin_price": 80.8,
+            "totalStickerPrice": 19.73,
+            "stickers": [
+                {
+                    "name": "mousesports | Cologne 2015",
+                    "price": 4.34,
+                    "slot": 1
+                },
+                {
+                    "name": "mousesports | Cologne 2015",
+                    "price": 4.34,
+                    "slot": 2
+                },
+                {
+                    "name": "mousesports | Cologne 2015",
+                    "price": 4.34,
+                    "slot": 3
+                },
+                {
+                    "name": "mousesports | Cologne 2015",
+                    "price": 4.34,
+                    "slot": 4
+                },
+                {
+                    "name": "First Blood",
+                    "price": 2.37,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.24,
+            "sticker_craft": true
+        },
+        "37e95121-e4b2-45cb-b98c-d1fbaf7e6cdd": {
+            "skin_name": "AWP | Pink DDPAT (Battle-Scarred)",
+            "skin_price": 56.4,
+            "totalStickerPrice": 13.26,
+            "stickers": [
+                {
+                    "name": "SK Gaming | Krakow 2017",
+                    "price": 1.31,
+                    "slot": 1
+                },
+                {
+                    "name": "dimasick | Boston 2018",
+                    "price": 6.26,
+                    "slot": 2
+                },
+                {
+                    "name": "pashaBiceps | London 2018",
+                    "price": 4.7,
+                    "slot": 3
+                },
+                {
+                    "name": "Nice Shot",
+                    "price": 0.97,
+                    "slot": 4
+                },
+                {
+                    "name": "KOI | Copenhagen 2024",
+                    "price": 0.02,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.24,
+            "sticker_craft": false
+        },
+        "340b836d-e90d-49bd-801f-7b7db95e7d34": {
+            "skin_name": "P250 | Whiteout (Field-Tested)",
+            "skin_price": 54.24,
+            "totalStickerPrice": 12.94,
+            "stickers": [
+                {
+                    "name": "steel | Krakow 2017",
+                    "price": 1.61,
+                    "slot": 1
+                },
+                {
+                    "name": "k0nfig | Krakow 2017",
+                    "price": 1.87,
+                    "slot": 2
+                },
+                {
+                    "name": "Counter Logic Gaming | MLG Columbus 2016",
+                    "price": 7.46,
+                    "slot": 3
+                },
+                {
+                    "name": "hutji | Krakow 2017",
+                    "price": 2.0,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.24,
+            "sticker_craft": false
+        },
+        "e3b2122c-cd5f-4950-9398-3b6985454ec1": {
+            "skin_name": "StatTrak\u2122 AK-47 | Point Disarray (Field-Tested)",
+            "skin_price": 44.41,
+            "totalStickerPrice": 10.44,
+            "stickers": [
+                {
+                    "name": "Smoke Criminal",
+                    "price": 2.61,
+                    "slot": 1
+                },
+                {
+                    "name": "Smoke Criminal",
+                    "price": 2.61,
+                    "slot": 2
+                },
+                {
+                    "name": "Smoke Criminal",
+                    "price": 2.61,
+                    "slot": 3
+                },
+                {
+                    "name": "Smoke Criminal",
+                    "price": 2.61,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.24,
+            "sticker_craft": true
+        },
+        "f7f5bc3f-21fd-4795-bff9-db4986d85ac8": {
+            "skin_name": "AWP | Chrome Cannon (Factory New)",
+            "skin_price": 205.1,
+            "totalStickerPrice": 46.83,
+            "stickers": [
+                {
+                    "name": "KOI (Glitter) | Copenhagen 2024",
+                    "price": 0.35,
+                    "slot": 1
+                },
+                {
+                    "name": "Fnatic (Holo) | Cologne 2014",
+                    "price": 23.24,
+                    "slot": 2
+                },
+                {
+                    "name": "Fnatic (Holo) | Cologne 2014",
+                    "price": 23.24,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.23,
+            "sticker_craft": false
+        },
+        "0de3e629-e8a8-407e-8d35-5dc5cda95f75": {
+            "skin_name": "AWP | Asiimov (Battle-Scarred)",
+            "skin_price": 121.65,
+            "totalStickerPrice": 28.47,
+            "stickers": [
+                {
+                    "name": "Team Dignitas | Cologne 2016",
+                    "price": 28.47,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 0.23,
+            "sticker_craft": false
+        },
+        "62ee3eba-3d1f-4df3-8aae-763cd15e1264": {
+            "skin_name": "StatTrak\u2122 AWP | Redline (Field-Tested)",
+            "skin_price": 127.39,
+            "totalStickerPrice": 28.0,
+            "stickers": [
+                {
+                    "name": "FaZe (Foil) | 2020 RMR",
+                    "price": 7.0,
+                    "slot": 1
+                },
+                {
+                    "name": "FaZe (Foil) | 2020 RMR",
+                    "price": 7.0,
+                    "slot": 2
+                },
+                {
+                    "name": "FaZe (Foil) | 2020 RMR",
+                    "price": 7.0,
+                    "slot": 3
+                },
+                {
+                    "name": "FaZe (Foil) | 2020 RMR",
+                    "price": 7.0,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.22,
+            "sticker_craft": true
+        },
+        "5a5e4a5e-7b0d-4c2e-84d2-8603beedbf66": {
+            "skin_name": "AK-47 | Red Laminate (Field-Tested)",
+            "skin_price": 84.38,
+            "totalStickerPrice": 16.73,
+            "stickers": [
+                {
+                    "name": "mousesports | MLG Columbus 2016",
+                    "price": 5.53,
+                    "slot": 1
+                },
+                {
+                    "name": "mousesports | MLG Columbus 2016",
+                    "price": 5.53,
+                    "slot": 2
+                },
+                {
+                    "name": "mousesports | MLG Columbus 2016",
+                    "price": 5.53,
+                    "slot": 3
+                },
+                {
+                    "name": "The Samurai",
+                    "price": 0.14,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.2,
+            "sticker_craft": false
+        },
+        "6f6cdb15-31c0-4084-a6b2-8516516fc764": {
+            "skin_name": "StatTrak\u2122 SCAR-20 | Cyrex (Well-Worn)",
+            "skin_price": 83.67,
+            "totalStickerPrice": 16.62,
+            "stickers": [
+                {
+                    "name": "Team LDLC.com | Cologne 2014",
+                    "price": 16.62,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 0.2,
+            "sticker_craft": false
+        },
+        "946206b8-6505-4d24-900f-35a1acfced85": {
+            "skin_name": "USP-S | Kill Confirmed (Well-Worn)",
+            "skin_price": 65.04,
+            "totalStickerPrice": 13.2,
+            "stickers": [
+                {
+                    "name": "Battle Scarred (Holo)",
+                    "price": 6.6,
+                    "slot": 1
+                },
+                {
+                    "name": "Battle Scarred (Holo)",
+                    "price": 6.6,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.2,
+            "sticker_craft": false
+        },
+        "841582b4-f822-453c-a042-0d1dc9e4f423": {
+            "skin_name": "AWP | Man-o'-war (Minimal Wear)",
+            "skin_price": 61.18,
+            "totalStickerPrice": 12.25,
+            "stickers": [
+                {
+                    "name": "Fnatic | Katowice 2015",
+                    "price": 10.29,
+                    "slot": 1
+                },
+                {
+                    "name": "Fnatic (Gold) | Paris 2023",
+                    "price": 0.7,
+                    "slot": 2
+                },
+                {
+                    "name": "Fnatic (Holo) | Paris 2023",
+                    "price": 0.42,
+                    "slot": 3
+                },
+                {
+                    "name": "Fnatic (Holo) | Paris 2023",
+                    "price": 0.42,
+                    "slot": 4
+                },
+                {
+                    "name": "Fnatic (Holo) | Paris 2023",
+                    "price": 0.42,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.2,
+            "sticker_craft": false
+        },
+        "171d964b-ccd1-42d4-9150-9746bda9d8a8": {
+            "skin_name": "StatTrak\u2122 M4A1-S | Decimator (Minimal Wear)",
+            "skin_price": 67.02,
+            "totalStickerPrice": 12.96,
+            "stickers": [
+                {
+                    "name": "FaZe Clan (Gold) | Antwerp 2022",
+                    "price": 3.24,
+                    "slot": 1
+                },
+                {
+                    "name": "FaZe Clan (Gold) | Antwerp 2022",
+                    "price": 3.24,
+                    "slot": 2
+                },
+                {
+                    "name": "FaZe Clan (Gold) | Antwerp 2022",
+                    "price": 3.24,
+                    "slot": 3
+                },
+                {
+                    "name": "FaZe Clan (Gold) | Antwerp 2022",
+                    "price": 3.24,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.19,
+            "sticker_craft": true
+        },
+        "364dd604-a40a-439e-901a-24ec31ea3fac": {
+            "skin_name": "USP-S | Orange Anolis (Factory New)",
+            "skin_price": 111.18,
+            "totalStickerPrice": 19.8,
+            "stickers": [
+                {
+                    "name": "Battle Scarred (Holo)",
+                    "price": 6.6,
+                    "slot": 1
+                },
+                {
+                    "name": "Battle Scarred (Holo)",
+                    "price": 6.6,
+                    "slot": 2
+                },
+                {
+                    "name": "Battle Scarred (Holo)",
+                    "price": 6.6,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.18,
+            "sticker_craft": false
+        },
+        "d184e1c1-e6a1-4631-a9f0-0a5a5c64d088": {
+            "skin_name": "P250 | Whiteout (Minimal Wear)",
+            "skin_price": 62.0,
+            "totalStickerPrice": 11.29,
+            "stickers": [
+                {
+                    "name": "mousesports | Krakow 2017",
+                    "price": 3.75,
+                    "slot": 1
+                },
+                {
+                    "name": "oskar | Boston 2018",
+                    "price": 1.94,
+                    "slot": 2
+                },
+                {
+                    "name": "mousesports | Cologne 2015",
+                    "price": 4.34,
+                    "slot": 3
+                },
+                {
+                    "name": "STYKO | Boston 2018",
+                    "price": 1.26,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.18,
+            "sticker_craft": false
+        },
+        "d0ff6014-ec74-4520-acb9-df189b81d370": {
+            "skin_name": "Five-SeveN | Nitro (Minimal Wear)",
+            "skin_price": 57.14,
+            "totalStickerPrice": 10.2,
+            "stickers": [
+                {
+                    "name": "Incineration (Holo)",
+                    "price": 2.55,
+                    "slot": 1
+                },
+                {
+                    "name": "Incineration (Holo)",
+                    "price": 2.55,
+                    "slot": 2
+                },
+                {
+                    "name": "Incineration (Holo)",
+                    "price": 2.55,
+                    "slot": 3
+                },
+                {
+                    "name": "Incineration (Holo)",
+                    "price": 2.55,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.18,
+            "sticker_craft": true
+        },
+        "a12ea048-a060-4900-8695-251d04456530": {
+            "skin_name": "M4A1-S | Dark Water (Field-Tested)",
+            "skin_price": 131.16,
+            "totalStickerPrice": 22.08,
+            "stickers": [
+                {
+                    "name": "Teamwork (Holo)",
+                    "price": 0.6,
+                    "slot": 1
+                },
+                {
+                    "name": "Teamwork (Holo)",
+                    "price": 0.6,
+                    "slot": 2
+                },
+                {
+                    "name": "Teamwork (Holo)",
+                    "price": 0.6,
+                    "slot": 3
+                },
+                {
+                    "name": "Stupid Banana (Foil)",
+                    "price": 20.28,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.17,
+            "sticker_craft": false
+        },
+        "a7e345de-18e9-40e4-9de3-1df341484b47": {
+            "skin_name": "StatTrak\u2122 AWP | Elite Build (Factory New)",
+            "skin_price": 110.44,
+            "totalStickerPrice": 19.17,
+            "stickers": [
+                {
+                    "name": "Dragon Lore (Foil)",
+                    "price": 6.44,
+                    "slot": 1
+                },
+                {
+                    "name": "Showdown (Foil)",
+                    "price": 3.59,
+                    "slot": 2
+                },
+                {
+                    "name": "Dragon Lore (Foil)",
+                    "price": 6.44,
+                    "slot": 3
+                },
+                {
+                    "name": "Eternal Fire (Gold) | Copenhagen 2024",
+                    "price": 2.7,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.17,
+            "sticker_craft": false
+        },
+        "6d78e576-9316-4215-b8e1-81ffe0a63747": {
+            "skin_name": "StatTrak\u2122 M4A4 | \u9f8d\u738b (Dragon King) (Minimal Wear)",
+            "skin_price": 64.89,
+            "totalStickerPrice": 10.72,
+            "stickers": [
+                {
+                    "name": "mousesports | Cluj-Napoca 2015",
+                    "price": 5.74,
+                    "slot": 1
+                },
+                {
+                    "name": "Gambit Gaming (Holo) | MLG Columbus 2016",
+                    "price": 4.98,
+                    "slot": 2
+                },
+                {
+                    "name": "ZywOo (Glitter",
+                    "price": 0,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.17,
+            "sticker_craft": false
+        },
+        "06cc893e-b032-44bd-bc37-186cd2de64a3": {
+            "skin_name": "AWP | Man-o'-war (Minimal Wear)",
+            "skin_price": 61.18,
+            "totalStickerPrice": 10.53,
+            "stickers": [
+                {
+                    "name": "Toxic",
+                    "price": 0.24,
+                    "slot": 1
+                },
+                {
+                    "name": "Hard Cluck Life (Foil)",
+                    "price": 0,
+                    "slot": 2
+                },
+                {
+                    "name": "Fnatic | Katowice 2015",
+                    "price": 10.29,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.17,
+            "sticker_craft": false
+        },
+        "4c3aa696-ddec-40cb-b5e7-f7bbbe0c5b6f": {
+            "skin_name": "Desert Eagle | Ocean Drive (Minimal Wear)",
+            "skin_price": 61.12,
+            "totalStickerPrice": 10.24,
+            "stickers": [
+                {
+                    "name": "V For Victory (Holo)",
+                    "price": 2.56,
+                    "slot": 1
+                },
+                {
+                    "name": "V For Victory (Holo)",
+                    "price": 2.56,
+                    "slot": 2
+                },
+                {
+                    "name": "V For Victory (Holo)",
+                    "price": 2.56,
+                    "slot": 3
+                },
+                {
+                    "name": "V For Victory (Holo)",
+                    "price": 2.56,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.17,
+            "sticker_craft": true
+        },
+        "38b44329-9abc-4a42-b3ee-de0a890457e0": {
+            "skin_name": "USP-S | Orion (Factory New)",
+            "skin_price": 93.41,
+            "totalStickerPrice": 15.1,
+            "stickers": [
+                {
+                    "name": "Fnatic (Foil) | Cologne 2015",
+                    "price": 11.4,
+                    "slot": 1
+                },
+                {
+                    "name": "Phoenix Balaclava Co. (Holo)",
+                    "price": 0.83,
+                    "slot": 2
+                },
+                {
+                    "name": "T Rush (Holo)",
+                    "price": 1.44,
+                    "slot": 3
+                },
+                {
+                    "name": "Rush 4x20 (Holo)",
+                    "price": 1.43,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.16,
+            "sticker_craft": false
+        },
+        "cc44ae4b-10fb-4271-9063-3276413f538a": {
+            "skin_name": "StatTrak\u2122 M4A4 | Buzz Kill (Minimal Wear)",
+            "skin_price": 77.33,
+            "totalStickerPrice": 12.52,
+            "stickers": [
+                {
+                    "name": "Battle Scarred",
+                    "price": 3.13,
+                    "slot": 1
+                },
+                {
+                    "name": "Battle Scarred",
+                    "price": 3.13,
+                    "slot": 2
+                },
+                {
+                    "name": "Battle Scarred",
+                    "price": 3.13,
+                    "slot": 3
+                },
+                {
+                    "name": "Battle Scarred",
+                    "price": 3.13,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.16,
+            "sticker_craft": true
+        },
+        "9a6bca47-16db-4a32-814a-7d657f11138e": {
+            "skin_name": "StatTrak\u2122 AK-47 | Asiimov (Field-Tested)",
+            "skin_price": 93.65,
+            "totalStickerPrice": 14.36,
+            "stickers": [
+                {
+                    "name": "Showdown (Foil)",
+                    "price": 3.59,
+                    "slot": 1
+                },
+                {
+                    "name": "Showdown (Foil)",
+                    "price": 3.59,
+                    "slot": 2
+                },
+                {
+                    "name": "Showdown (Foil)",
+                    "price": 3.59,
+                    "slot": 3
+                },
+                {
+                    "name": "Showdown (Foil)",
+                    "price": 3.59,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.15,
+            "sticker_craft": true
+        },
+        "fc1ba9a9-2f63-4180-adc5-a045f7cd62a0": {
+            "skin_name": "StatTrak\u2122 Desert Eagle | Code Red (Field-Tested)",
+            "skin_price": 79.61,
+            "totalStickerPrice": 11.9,
+            "stickers": [
+                {
+                    "name": "Fire in the Hole (Holo)",
+                    "price": 2.38,
+                    "slot": 1
+                },
+                {
+                    "name": "Fire in the Hole (Holo)",
+                    "price": 2.38,
+                    "slot": 2
+                },
+                {
+                    "name": "Fire in the Hole (Holo)",
+                    "price": 2.38,
+                    "slot": 3
+                },
+                {
+                    "name": "Fire in the Hole (Holo)",
+                    "price": 2.38,
+                    "slot": 4
+                },
+                {
+                    "name": "Fire in the Hole (Holo)",
+                    "price": 2.38,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.15,
+            "sticker_craft": true
+        },
+        "46e76254-888a-40c6-999f-af561f766a5a": {
+            "skin_name": "StatTrak\u2122 AK-47 | Red Laminate (Well-Worn)",
+            "skin_price": 168.86,
+            "totalStickerPrice": 23.32,
+            "stickers": [
+                {
+                    "name": "Dosia | Atlanta 2017",
+                    "price": 23.24,
+                    "slot": 1
+                },
+                {
+                    "name": "This Is Fine (T)",
+                    "price": 0.08,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.14,
+            "sticker_craft": false
+        },
+        "af2e64be-ef8e-4269-b604-fd3ec7681e8d": {
+            "skin_name": "StatTrak\u2122 AK-47 | Aquamarine Revenge (Minimal Wear)",
+            "skin_price": 206.44,
+            "totalStickerPrice": 27.8,
+            "stickers": [
+                {
+                    "name": "Battle Scarred (Holo)",
+                    "price": 6.6,
+                    "slot": 1
+                },
+                {
+                    "name": "Battle Scarred (Holo)",
+                    "price": 6.6,
+                    "slot": 2
+                },
+                {
+                    "name": "Battle Scarred (Holo)",
+                    "price": 6.6,
+                    "slot": 3
+                },
+                {
+                    "name": "Battle Scarred (Holo)",
+                    "price": 6.6,
+                    "slot": 4
+                },
+                {
+                    "name": "Chicken of the Sky",
+                    "price": 1.4,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.13,
+            "sticker_craft": true
+        },
+        "38098800-58ab-4513-ad3d-d3a4f1283439": {
+            "skin_name": "AK-47 | Inheritance (Field-Tested)",
+            "skin_price": 174.18,
+            "totalStickerPrice": 23.4,
+            "stickers": [
+                {
+                    "name": "Lotus (Glitter)",
+                    "price": 5.85,
+                    "slot": 1
+                },
+                {
+                    "name": "Lotus (Glitter)",
+                    "price": 5.85,
+                    "slot": 2
+                },
+                {
+                    "name": "Lotus (Glitter)",
+                    "price": 5.85,
+                    "slot": 3
+                },
+                {
+                    "name": "Lotus (Glitter)",
+                    "price": 5.85,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.13,
+            "sticker_craft": true
+        },
+        "d4044812-1910-4e9b-a15e-3130e513c0f0": {
+            "skin_name": "StatTrak\u2122 M4A1-S | Chantico's Fire (Field-Tested)",
+            "skin_price": 96.88,
+            "totalStickerPrice": 12.94,
+            "stickers": [
+                {
+                    "name": "Guardian Dragon (Foil)",
+                    "price": 1.87,
+                    "slot": 1
+                },
+                {
+                    "name": "G2 Esports | Cologne 2016",
+                    "price": 4.48,
+                    "slot": 2
+                },
+                {
+                    "name": "Fancy Koi (Foil)",
+                    "price": 4.34,
+                    "slot": 3
+                },
+                {
+                    "name": "Phoenix (Foil)",
+                    "price": 2.25,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.13,
+            "sticker_craft": false
+        },
+        "c4be7663-90c3-4945-acc4-4efadf865658": {
+            "skin_name": "AK-47 | Red Laminate (Field-Tested)",
+            "skin_price": 84.38,
+            "totalStickerPrice": 10.9,
+            "stickers": [
+                {
+                    "name": "Natus Vincere (Foil) | Cologne 2016",
+                    "price": 10.19,
+                    "slot": 1
+                },
+                {
+                    "name": "Jimpphat (Holo) | Copenhagen 2024",
+                    "price": 0.42,
+                    "slot": 2
+                },
+                {
+                    "name": "siuhy (Holo) | Copenhagen 2024",
+                    "price": 0.29,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.13,
+            "sticker_craft": false
+        },
+        "62f47722-d455-4bbd-bf07-a0b482092805": {
+            "skin_name": "StatTrak\u2122 M4A1-S | Printstream (Battle-Scarred)",
+            "skin_price": 317.79,
+            "totalStickerPrice": 37.39,
+            "stickers": [
+                {
+                    "name": "FaZe Clan (Holo) | Boston 2018",
+                    "price": 37.08,
+                    "slot": 1
+                },
+                {
+                    "name": "FURIA | Paris 2023",
+                    "price": 0.01,
+                    "slot": 2
+                },
+                {
+                    "name": "Heroic | Paris 2023",
+                    "price": 0.01,
+                    "slot": 3
+                },
+                {
+                    "name": "Heroic | Paris 2023",
+                    "price": 0.01,
+                    "slot": 4
+                },
+                {
+                    "name": "Green's Problem",
+                    "price": 0.28,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.12,
+            "sticker_craft": false
+        },
+        "05815833-40f3-4f4c-9370-b1c2eedaabe4": {
+            "skin_name": "StatTrak\u2122 AWP | Containment Breach (Field-Tested)",
+            "skin_price": 233.82,
+            "totalStickerPrice": 28.72,
+            "stickers": [
+                {
+                    "name": "OpTic Gaming (Holo) | Cologne 2016",
+                    "price": 28.47,
+                    "slot": 1
+                },
+                {
+                    "name": "Boom Blast (Glitter)",
+                    "price": 0.11,
+                    "slot": 2
+                },
+                {
+                    "name": "Boom Detonation (Glitter)",
+                    "price": 0.14,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.12,
+            "sticker_craft": false
+        },
+        "545bcb71-cd14-4aed-9fc8-652eb01d5343": {
+            "skin_name": "AK-47 | Redline (Minimal Wear)",
+            "skin_price": 221.99,
+            "totalStickerPrice": 26.39,
+            "stickers": [
+                {
+                    "name": "mousesports | MLG Columbus 2016",
+                    "price": 5.53,
+                    "slot": 1
+                },
+                {
+                    "name": "mousesports | MLG Columbus 2016",
+                    "price": 5.53,
+                    "slot": 2
+                },
+                {
+                    "name": "mousesports | MLG Columbus 2016",
+                    "price": 5.53,
+                    "slot": 3
+                },
+                {
+                    "name": "Twistzz (Foil) | Berlin 2019",
+                    "price": 4.27,
+                    "slot": 4
+                },
+                {
+                    "name": "mousesports | MLG Columbus 2016",
+                    "price": 5.53,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.12,
+            "sticker_craft": false
+        },
+        "3a7a561a-deb3-423f-b33f-74f86e12ae74": {
+            "skin_name": "M4A4 | Radiation Hazard (Minimal Wear)",
+            "skin_price": 185.03,
+            "totalStickerPrice": 21.85,
+            "stickers": [
+                {
+                    "name": "Ninjas in Pyjamas | DreamHack 2014",
+                    "price": 21.77,
+                    "slot": 1
+                },
+                {
+                    "name": "jL | Paris 2023",
+                    "price": 0.01,
+                    "slot": 2
+                },
+                {
+                    "name": "nawwk | Paris 2023",
+                    "price": 0.06,
+                    "slot": 3
+                },
+                {
+                    "name": "kyxsan | Paris 2023",
+                    "price": 0.01,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.12,
+            "sticker_craft": false
+        },
+        "ae11006c-da51-49ca-ae27-23a7130799ad": {
+            "skin_name": "Desert Eagle | Code Red (Factory New)",
+            "skin_price": 118.51,
+            "totalStickerPrice": 14.67,
+            "stickers": [
+                {
+                    "name": "Perfect World (Gold) | Shanghai 2024",
+                    "price": 9.23,
+                    "slot": 1
+                },
+                {
+                    "name": "Fnatic (Gold) | Shanghai 2024",
+                    "price": 5.44,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.12,
+            "sticker_craft": false
+        },
+        "6305b2a7-ac80-40dd-8d28-9b838f8031ad": {
+            "skin_name": "USP-S | Printstream (Minimal Wear)",
+            "skin_price": 92.5,
+            "totalStickerPrice": 10.75,
+            "stickers": [
+                {
+                    "name": "Gold Web (Foil)",
+                    "price": 2.15,
+                    "slot": 1
+                },
+                {
+                    "name": "Gold Web (Foil)",
+                    "price": 2.15,
+                    "slot": 2
+                },
+                {
+                    "name": "Gold Web (Foil)",
+                    "price": 2.15,
+                    "slot": 3
+                },
+                {
+                    "name": "Gold Web (Foil)",
+                    "price": 2.15,
+                    "slot": 4
+                },
+                {
+                    "name": "Gold Web (Foil)",
+                    "price": 2.15,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.12,
+            "sticker_craft": true
+        },
+        "0ca2d59b-5eeb-4c2b-bb76-1832996ec5ca": {
+            "skin_name": "USP-S | Orion (Minimal Wear)",
+            "skin_price": 84.89,
+            "totalStickerPrice": 10.52,
+            "stickers": [
+                {
+                    "name": "Fnatic | Katowice 2015",
+                    "price": 10.29,
+                    "slot": 1
+                },
+                {
+                    "name": "Magisk (Holo) | Antwerp 2022",
+                    "price": 0.23,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.12,
+            "sticker_craft": false
+        },
+        "260eb13e-ace1-4c62-9e02-9cec66743718": {
+            "skin_name": "StatTrak\u2122 AWP | Containment Breach (Well-Worn)",
+            "skin_price": 188.92,
+            "totalStickerPrice": 21.21,
+            "stickers": [
+                {
+                    "name": "Kill Count (Holo)",
+                    "price": 4.62,
+                    "slot": 1
+                },
+                {
+                    "name": "Toxic Flow (Holo)",
+                    "price": 8.55,
+                    "slot": 2
+                },
+                {
+                    "name": "Dead Eye (Holo)",
+                    "price": 7.08,
+                    "slot": 3
+                },
+                {
+                    "name": "Retro Zeus",
+                    "price": 0.01,
+                    "slot": 4
+                },
+                {
+                    "name": "Complexity Gaming (Gold) | Paris 2023",
+                    "price": 0.95,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.11,
+            "sticker_craft": false
+        },
+        "b117fc8a-b770-4226-9ee1-1399c58361c7": {
+            "skin_name": "StatTrak\u2122 AWP | Man-o'-war (Minimal Wear)",
+            "skin_price": 138.71,
+            "totalStickerPrice": 15.86,
+            "stickers": [
+                {
+                    "name": "nitr0 (Gold) | Berlin 2019",
+                    "price": 8.72,
+                    "slot": 1
+                },
+                {
+                    "name": "Dust FA (Foil)",
+                    "price": 2.38,
+                    "slot": 2
+                },
+                {
+                    "name": "Dust FA (Foil)",
+                    "price": 2.38,
+                    "slot": 3
+                },
+                {
+                    "name": "Dust FA (Foil)",
+                    "price": 2.38,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.11,
+            "sticker_craft": false
+        },
+        "3f710857-df60-40c1-81c8-711a25c51036": {
+            "skin_name": "StatTrak\u2122 Glock-18 | Blue Fissure (Factory New)",
+            "skin_price": 111.47,
+            "totalStickerPrice": 12.0,
+            "stickers": [
+                {
+                    "name": "Taste Buddy (Holo)",
+                    "price": 2.4,
+                    "slot": 1
+                },
+                {
+                    "name": "Taste Buddy (Holo)",
+                    "price": 2.4,
+                    "slot": 2
+                },
+                {
+                    "name": "Taste Buddy (Holo)",
+                    "price": 2.4,
+                    "slot": 3
+                },
+                {
+                    "name": "Taste Buddy (Holo)",
+                    "price": 2.4,
+                    "slot": 4
+                },
+                {
+                    "name": "Taste Buddy (Holo)",
+                    "price": 2.4,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.11,
+            "sticker_craft": true
+        },
+        "c3f2333d-0a04-424e-9e3f-10e68fcc82b3": {
+            "skin_name": "StatTrak\u2122 USP-S | Caiman (Factory New)",
+            "skin_price": 170.84,
+            "totalStickerPrice": 16.85,
+            "stickers": [
+                {
+                    "name": "Lore Poison Frog (Foil)",
+                    "price": 16.85,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 0.1,
+            "sticker_craft": false
+        },
+        "1a569f14-7e38-4b50-a2ff-505e83054c10": {
+            "skin_name": "StatTrak\u2122 Desert Eagle | Code Red (Minimal Wear)",
+            "skin_price": 128.13,
+            "totalStickerPrice": 12.95,
+            "stickers": [
+                {
+                    "name": "Global Elite (Foil)",
+                    "price": 9.47,
+                    "slot": 1
+                },
+                {
+                    "name": "Astralis (Foil) | 2020 RMR",
+                    "price": 1.16,
+                    "slot": 2
+                },
+                {
+                    "name": "Astralis (Foil) | 2020 RMR",
+                    "price": 1.16,
+                    "slot": 3
+                },
+                {
+                    "name": "Astralis (Foil) | 2020 RMR",
+                    "price": 1.16,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.1,
+            "sticker_craft": false
+        },
+        "d1bafae7-398e-4b3f-9c78-98259d074937": {
+            "skin_name": "AWP | Pink DDPAT (Factory New)",
+            "skin_price": 167.87,
+            "totalStickerPrice": 14.8,
+            "stickers": [
+                {
+                    "name": "No Pats (Holo)",
+                    "price": 2.96,
+                    "slot": 1
+                },
+                {
+                    "name": "No Pats (Holo)",
+                    "price": 2.96,
+                    "slot": 2
+                },
+                {
+                    "name": "No Pats (Holo)",
+                    "price": 2.96,
+                    "slot": 3
+                },
+                {
+                    "name": "No Pats (Holo)",
+                    "price": 2.96,
+                    "slot": 4
+                },
+                {
+                    "name": "No Pats (Holo)",
+                    "price": 2.96,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.09,
+            "sticker_craft": true
+        },
+        "27ed641f-fc76-42e9-a73f-3af9cad314e4": {
+            "skin_name": "AWP | Asiimov (Well-Worn)",
+            "skin_price": 165.42,
+            "totalStickerPrice": 14.64,
+            "stickers": [
+                {
+                    "name": "coldzera | Krakow 2017",
+                    "price": 2.12,
+                    "slot": 1
+                },
+                {
+                    "name": "GuardiaN | Krakow 2017",
+                    "price": 2.31,
+                    "slot": 2
+                },
+                {
+                    "name": "FalleN | Krakow 2017",
+                    "price": 5.72,
+                    "slot": 3
+                },
+                {
+                    "name": "kennyS | Katowice 2019",
+                    "price": 4.49,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.09,
+            "sticker_craft": false
+        },
+        "fd86f6c7-fcfd-4e96-aba2-51cdad28a294": {
+            "skin_name": "AWP | Hyper Beast (Factory New)",
+            "skin_price": 134.32,
+            "totalStickerPrice": 11.46,
+            "stickers": [
+                {
+                    "name": "FURIA (Holo) | Katowice 2019",
+                    "price": 11.46,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 0.09,
+            "sticker_craft": false
+        },
+        "b4f23621-f044-4498-8f8c-31235dc55e2d": {
+            "skin_name": "StatTrak\u2122 USP-S | Caiman (Minimal Wear)",
+            "skin_price": 129.36,
+            "totalStickerPrice": 12.18,
+            "stickers": [
+                {
+                    "name": "seized (Foil) | MLG Columbus 2016",
+                    "price": 12.18,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 0.09,
+            "sticker_craft": false
+        },
+        "2c4aec9c-f008-4018-b9fa-d225e721fff8": {
+            "skin_name": "StatTrak\u2122 AWP | Oni Taiji (Minimal Wear)",
+            "skin_price": 893.5,
+            "totalStickerPrice": 68.95,
+            "stickers": [
+                {
+                    "name": "Skadoodle (Foil) | MLG Columbus 2016",
+                    "price": 68.11,
+                    "slot": 1
+                },
+                {
+                    "name": "GamerLegion (Holo) | Copenhagen 2024",
+                    "price": 0.84,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.08,
+            "sticker_craft": false
+        },
+        "53d4ad81-314e-41c6-8759-e41a03ab9707": {
+            "skin_name": "StatTrak\u2122 Glock-18 | Dragon Tattoo (Factory New)",
+            "skin_price": 820.03,
+            "totalStickerPrice": 64.62,
+            "stickers": [
+                {
+                    "name": "Splyce (Foil) | MLG Columbus 2016",
+                    "price": 32.31,
+                    "slot": 1
+                },
+                {
+                    "name": "Splyce (Foil) | MLG Columbus 2016",
+                    "price": 32.31,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.08,
+            "sticker_craft": false
+        },
+        "d6b2f912-2687-49a8-9cd8-31b412f54095": {
+            "skin_name": "StatTrak\u2122 AK-47 | Vulcan (Battle-Scarred)",
+            "skin_price": 286.42,
+            "totalStickerPrice": 22.17,
+            "stickers": [
+                {
+                    "name": "b1t (Holo) | Rio 2022",
+                    "price": 0.99,
+                    "slot": 1
+                },
+                {
+                    "name": "ScreaM | Cluj-Napoca 2015",
+                    "price": 19.2,
+                    "slot": 2
+                },
+                {
+                    "name": "b1t (Holo) | Rio 2022",
+                    "price": 0.99,
+                    "slot": 3
+                },
+                {
+                    "name": "b1t (Holo) | Rio 2022",
+                    "price": 0.99,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.08,
+            "sticker_craft": false
+        },
+        "9175f41b-f691-4bf6-b5f4-3f594f29d927": {
+            "skin_name": "AK-47 | Bloodsport (Field-Tested)",
+            "skin_price": 220.26,
+            "totalStickerPrice": 18.28,
+            "stickers": [
+                {
+                    "name": "HellRaisers (Holo) | Katowice 2019",
+                    "price": 4.51,
+                    "slot": 1
+                },
+                {
+                    "name": "HellRaisers (Holo) | Katowice 2019",
+                    "price": 4.51,
+                    "slot": 2
+                },
+                {
+                    "name": "HellRaisers (Holo) | Katowice 2019",
+                    "price": 4.51,
+                    "slot": 3
+                },
+                {
+                    "name": "HellRaisers (Holo) | Katowice 2019",
+                    "price": 4.51,
+                    "slot": 4
+                },
+                {
+                    "name": "Big Hugs (Holo)",
+                    "price": 0.24,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.08,
+            "sticker_craft": true
+        },
+        "ea11c53a-e299-432f-a6ba-12da121d204c": {
+            "skin_name": "AWP | Asiimov (Field-Tested)",
+            "skin_price": 213.64,
+            "totalStickerPrice": 18.06,
+            "stickers": [
+                {
+                    "name": "GuardiaN (Foil) | Katowice 2019",
+                    "price": 2.86,
+                    "slot": 1
+                },
+                {
+                    "name": "Skadoodle (Foil) | London 2018",
+                    "price": 10.92,
+                    "slot": 2
+                },
+                {
+                    "name": "kennyS (Foil) | Berlin 2019",
+                    "price": 3.6,
+                    "slot": 3
+                },
+                {
+                    "name": "Baby Howl",
+                    "price": 0.68,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.08,
+            "sticker_craft": false
+        },
+        "ec168ce9-f3f3-4122-b116-14d60a6da679": {
+            "skin_name": "AK-47 | Inheritance (Field-Tested)",
+            "skin_price": 174.18,
+            "totalStickerPrice": 13.14,
+            "stickers": [
+                {
+                    "name": "Eternal Fire (Glitter) | Copenhagen 2024",
+                    "price": 0.48,
+                    "slot": 1
+                },
+                {
+                    "name": "Eternal Fire (Glitter) | Copenhagen 2024",
+                    "price": 0.48,
+                    "slot": 2
+                },
+                {
+                    "name": "Eternal Fire (Glitter) | Copenhagen 2024",
+                    "price": 0.48,
+                    "slot": 3
+                },
+                {
+                    "name": "Lotus (Glitter)",
+                    "price": 5.85,
+                    "slot": 4
+                },
+                {
+                    "name": "Lotus (Glitter)",
+                    "price": 5.85,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.08,
+            "sticker_craft": false
+        },
+        "1cb4c205-0bd0-4143-98b1-2598249f6725": {
+            "skin_name": "StatTrak\u2122 USP-S | Dark Water (Field-Tested)",
+            "skin_price": 173.07,
+            "totalStickerPrice": 11.84,
+            "stickers": [
+                {
+                    "name": "Gambit Gaming (Holo) | Cologne 2016",
+                    "price": 7.21,
+                    "slot": 1
+                },
+                {
+                    "name": "ESL (Holo) | Cologne 2016",
+                    "price": 4.62,
+                    "slot": 2
+                },
+                {
+                    "name": "Grayhound Gaming | Paris 2023",
+                    "price": 0.01,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.07,
+            "sticker_craft": false
+        },
+        "593f1365-359f-4dd7-98ec-be27e514babc": {
+            "skin_name": "MP9 | Stained Glass (Factory New)",
+            "skin_price": 165.68,
+            "totalStickerPrice": 11.91,
+            "stickers": [
+                {
+                    "name": "HellRaisers (Foil) | Katowice 2019",
+                    "price": 11.91,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 0.07,
+            "sticker_craft": false
+        },
+        "0557d692-ebaf-42e0-8b36-0acb56e3e6d9": {
+            "skin_name": "AWP | Asiimov (Well-Worn)",
+            "skin_price": 165.42,
+            "totalStickerPrice": 11.84,
+            "stickers": [
+                {
+                    "name": "Fnatic | Cologne 2015",
+                    "price": 2.53,
+                    "slot": 1
+                },
+                {
+                    "name": "JW | Cluj-Napoca 2015",
+                    "price": 2.7,
+                    "slot": 2
+                },
+                {
+                    "name": "JW | Cologne 2015",
+                    "price": 2.43,
+                    "slot": 3
+                },
+                {
+                    "name": "Fnatic | Cologne 2014",
+                    "price": 4.18,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.07,
+            "sticker_craft": false
+        },
+        "abdc19a7-9766-417e-9128-8bea5b1fbcd4": {
+            "skin_name": "AK-47 | Panthera onca (Well-Worn)",
+            "skin_price": 285.47,
+            "totalStickerPrice": 18.19,
+            "stickers": [
+                {
+                    "name": "Enemy Spotted (Holo)",
+                    "price": 0.49,
+                    "slot": 1
+                },
+                {
+                    "name": "Battle Scarred (Holo)",
+                    "price": 6.6,
+                    "slot": 2
+                },
+                {
+                    "name": "Stone Scales (Foil)",
+                    "price": 3.7,
+                    "slot": 3
+                },
+                {
+                    "name": "Stone Scales (Foil)",
+                    "price": 3.7,
+                    "slot": 4
+                },
+                {
+                    "name": "Stone Scales (Foil)",
+                    "price": 3.7,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.06,
+            "sticker_craft": false
+        },
+        "06c0b3aa-e262-4b1a-8c8c-ebcb6cf7b9eb": {
+            "skin_name": "AK-47 | Vulcan (Well-Worn)",
+            "skin_price": 251.62,
+            "totalStickerPrice": 15.99,
+            "stickers": [
+                {
+                    "name": "ENCE (Foil) | Berlin 2019",
+                    "price": 0.67,
+                    "slot": 1
+                },
+                {
+                    "name": "Snax | Krakow 2017",
+                    "price": 2.85,
+                    "slot": 2
+                },
+                {
+                    "name": "G2 Esports (Holo) | London 2018",
+                    "price": 7.66,
+                    "slot": 3
+                },
+                {
+                    "name": "Virtus.Pro | Cologne 2014",
+                    "price": 4.81,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.06,
+            "sticker_craft": false
+        },
+        "c2c343c7-2abc-4e42-b6eb-aa3dd0bf74a1": {
+            "skin_name": "AK-47 | Fuel Injector (Battle-Scarred)",
+            "skin_price": 224.39,
+            "totalStickerPrice": 13.88,
+            "stickers": [
+                {
+                    "name": "The Pro (Foil)",
+                    "price": 3.47,
+                    "slot": 1
+                },
+                {
+                    "name": "The Pro (Foil)",
+                    "price": 3.47,
+                    "slot": 2
+                },
+                {
+                    "name": "The Pro (Foil)",
+                    "price": 3.47,
+                    "slot": 3
+                },
+                {
+                    "name": "The Pro (Foil)",
+                    "price": 3.47,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.06,
+            "sticker_craft": true
+        },
+        "8414b67a-8180-4377-bfad-d80da9001f76": {
+            "skin_name": "AK-47 | Bloodsport (Field-Tested)",
+            "skin_price": 220.26,
+            "totalStickerPrice": 12.52,
+            "stickers": [
+                {
+                    "name": "Battle Scarred",
+                    "price": 3.13,
+                    "slot": 1
+                },
+                {
+                    "name": "Battle Scarred",
+                    "price": 3.13,
+                    "slot": 2
+                },
+                {
+                    "name": "Battle Scarred",
+                    "price": 3.13,
+                    "slot": 3
+                },
+                {
+                    "name": "Battle Scarred",
+                    "price": 3.13,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.06,
+            "sticker_craft": true
+        },
+        "9ed4d2d6-6c3f-4ee8-b71b-42e35cdcf21c": {
+            "skin_name": "AWP | Graphite (Factory New)",
+            "skin_price": 214.82,
+            "totalStickerPrice": 11.82,
+            "stickers": [
+                {
+                    "name": "b1t (Gold) | Stockholm 2021",
+                    "price": 3.74,
+                    "slot": 1
+                },
+                {
+                    "name": "electroNic (Gold) | Stockholm 2021",
+                    "price": 2.52,
+                    "slot": 2
+                },
+                {
+                    "name": "IEM (Gold) | Rio 2022",
+                    "price": 0.98,
+                    "slot": 3
+                },
+                {
+                    "name": "Ninjas in Pyjamas (Gold) | Rio 2022",
+                    "price": 1.51,
+                    "slot": 4
+                },
+                {
+                    "name": "hatz (Gold) | Antwerp 2022",
+                    "price": 3.07,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.06,
+            "sticker_craft": false
+        },
+        "8f5467a5-57f8-437f-b53d-23f56f7eff09": {
+            "skin_name": "StatTrak\u2122 M4A1-S | Cyrex (Factory New)",
+            "skin_price": 198.14,
+            "totalStickerPrice": 11.49,
+            "stickers": [
+                {
+                    "name": "MOUZ (Holo) | Copenhagen 2024",
+                    "price": 0.96,
+                    "slot": 1
+                },
+                {
+                    "name": "KOI (Holo) | Copenhagen 2024",
+                    "price": 4.98,
+                    "slot": 2
+                },
+                {
+                    "name": "Lynn Vision (Holo) | Copenhagen 2024",
+                    "price": 4.2,
+                    "slot": 3
+                },
+                {
+                    "name": "Natus Vincere (Holo) | Copenhagen 2024",
+                    "price": 1.35,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.06,
+            "sticker_craft": false
+        },
+        "98955dbd-e3a0-43ab-810d-cd2bcbc9befc": {
+            "skin_name": "StatTrak\u2122 USP-S | Caiman (Factory New)",
+            "skin_price": 170.84,
+            "totalStickerPrice": 10.37,
+            "stickers": [
+                {
+                    "name": "Googly Eye (Lenticular)",
+                    "price": 10.37,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 0.06,
+            "sticker_craft": false
+        },
+        "03c2b332-aac0-47aa-893d-638b636e935e": {
+            "skin_name": "StatTrak\u2122 AWP | Lightning Strike (Factory New)",
+            "skin_price": 1305.6,
+            "totalStickerPrice": 63.26,
+            "stickers": [
+                {
+                    "name": "iBUYPOWER | Cologne 2014",
+                    "price": 63.25,
+                    "slot": 1
+                },
+                {
+                    "name": "jL | Shanghai 2024",
+                    "price": 0.01,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.05,
+            "sticker_craft": false
+        },
+        "45e03b05-5300-4224-a7fd-03f36431031e": {
+            "skin_name": "M4A1-S | Imminent Danger (Well-Worn)",
+            "skin_price": 946.66,
+            "totalStickerPrice": 50.72,
+            "stickers": [
+                {
+                    "name": "Entropiq (Foil) | Stockholm 2021",
+                    "price": 6.42,
+                    "slot": 1
+                },
+                {
+                    "name": "Entropiq (Foil) | Stockholm 2021",
+                    "price": 6.42,
+                    "slot": 2
+                },
+                {
+                    "name": "Entropiq (Foil) | Stockholm 2021",
+                    "price": 6.42,
+                    "slot": 3
+                },
+                {
+                    "name": "WorldEdit (Foil) | Krakow 2017",
+                    "price": 15.73,
+                    "slot": 4
+                },
+                {
+                    "name": "WorldEdit (Foil) | Krakow 2017",
+                    "price": 15.73,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.05,
+            "sticker_craft": false
+        },
+        "10e3ab77-b0f3-4ed2-921c-65ac4c3d7b80": {
+            "skin_name": "AUG | Akihabara Accept (Battle-Scarred)",
+            "skin_price": 431.79,
+            "totalStickerPrice": 20.3,
+            "stickers": [
+                {
+                    "name": "RpK (Foil) | Cologne 2015",
+                    "price": 20.29,
+                    "slot": 1
+                },
+                {
+                    "name": "Angry T",
+                    "price": 0.01,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.05,
+            "sticker_craft": false
+        },
+        "278dd705-ac64-474f-a473-3babf37591a3": {
+            "skin_name": "AWP | CMYK (Field-Tested)",
+            "skin_price": 412.93,
+            "totalStickerPrice": 21.68,
+            "stickers": [
+                {
+                    "name": "bodyy (Foil) | Krakow 2017",
+                    "price": 14.3,
+                    "slot": 1
+                },
+                {
+                    "name": "MOUZ (Holo) | Paris 2023",
+                    "price": 1.15,
+                    "slot": 2
+                },
+                {
+                    "name": "ANGE1 (Gold) | Berlin 2019",
+                    "price": 6.23,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.05,
+            "sticker_craft": false
+        },
+        "475f489f-279a-400f-bfb4-c29c64c1b671": {
+            "skin_name": "StatTrak\u2122 AWP | Asiimov (Field-Tested)",
+            "skin_price": 375.73,
+            "totalStickerPrice": 18.34,
+            "stickers": [
+                {
+                    "name": "s1mple (Foil) | London 2018",
+                    "price": 18.34,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 0.05,
+            "sticker_craft": false
+        },
+        "ec80b264-be9b-44ac-a47b-e9a9657dd378": {
+            "skin_name": "AK-47 | Vulcan (Field-Tested)",
+            "skin_price": 371.35,
+            "totalStickerPrice": 19.39,
+            "stickers": [
+                {
+                    "name": "ESL One Cologne 2014 (Blue)",
+                    "price": 14.99,
+                    "slot": 1
+                },
+                {
+                    "name": "Cloud9 | Krakow 2017",
+                    "price": 1.45,
+                    "slot": 2
+                },
+                {
+                    "name": "Windy Walking Club",
+                    "price": 1.09,
+                    "slot": 3
+                },
+                {
+                    "name": "autimatic | Boston 2018",
+                    "price": 1.86,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.05,
+            "sticker_craft": false
+        },
+        "c6cbd8d3-7641-49d1-8760-9143a48d7af8": {
+            "skin_name": "StatTrak\u2122 M4A4 | Temukau (Factory New)",
+            "skin_price": 365.38,
+            "totalStickerPrice": 16.99,
+            "stickers": [
+                {
+                    "name": "Magic Rush Ball (Lenticular)",
+                    "price": 13.09,
+                    "slot": 1
+                },
+                {
+                    "name": "Loving Eyes (Holo)",
+                    "price": 3.9,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.05,
+            "sticker_craft": false
+        },
+        "002d26ba-a52e-401e-8f3f-5900b5eaedd1": {
+            "skin_name": "SG 553 | Bulldozer (Factory New)",
+            "skin_price": 263.28,
+            "totalStickerPrice": 14.48,
+            "stickers": [
+                {
+                    "name": "Space Soldiers (Foil) | Boston 2018",
+                    "price": 14.47,
+                    "slot": 1
+                },
+                {
+                    "name": "GODSENT | 2020 RMR",
+                    "price": 0.01,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.05,
+            "sticker_craft": false
+        },
+        "6bfd5e43-ccba-4d4f-9906-226c48331dcb": {
+            "skin_name": "M4A1-S | Printstream (Battle-Scarred)",
+            "skin_price": 228.7,
+            "totalStickerPrice": 11.36,
+            "stickers": [
+                {
+                    "name": "Cloud9 (Holo) | Copenhagen 2024",
+                    "price": 2.84,
+                    "slot": 1
+                },
+                {
+                    "name": "Cloud9 (Holo) | Copenhagen 2024",
+                    "price": 2.84,
+                    "slot": 2
+                },
+                {
+                    "name": "Cloud9 (Holo) | Copenhagen 2024",
+                    "price": 2.84,
+                    "slot": 3
+                },
+                {
+                    "name": "Cloud9 (Holo) | Copenhagen 2024",
+                    "price": 2.84,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.05,
+            "sticker_craft": true
+        },
+        "2c84f5e6-a94b-43ef-89c1-64ebb2914a12": {
+            "skin_name": "AK-47 | Vulcan (Battle-Scarred)",
+            "skin_price": 227.79,
+            "totalStickerPrice": 10.92,
+            "stickers": [
+                {
+                    "name": "Blue Gem (Glitter)",
+                    "price": 2.67,
+                    "slot": 1
+                },
+                {
+                    "name": "Luminosity Gaming | MLG Columbus 2016",
+                    "price": 7.19,
+                    "slot": 2
+                },
+                {
+                    "name": "donk (Glitter) | Copenhagen 2024",
+                    "price": 1.06,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.05,
+            "sticker_craft": false
+        },
+        "7948a759-6558-4012-a950-a8de828e2275": {
+            "skin_name": "StatTrak\u2122 AWP | Asiimov (Field-Tested)",
+            "skin_price": 375.73,
+            "totalStickerPrice": 16.61,
+            "stickers": [
+                {
+                    "name": "OG (Gold) | Rio 2022",
+                    "price": 3.57,
+                    "slot": 1
+                },
+                {
+                    "name": "Flame Buttery (Holo)",
+                    "price": 3.83,
+                    "slot": 2
+                },
+                {
+                    "name": "Hypnoteyes (Holo)",
+                    "price": 0.42,
+                    "slot": 3
+                },
+                {
+                    "name": "Purrurists (Foil)",
+                    "price": 5.32,
+                    "slot": 4
+                },
+                {
+                    "name": "The Pro (Foil)",
+                    "price": 3.47,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.04,
+            "sticker_craft": false
+        },
+        "3a06b7e6-ce8f-41d4-b00e-ad7ab292cd6a": {
+            "skin_name": "StatTrak\u2122 AWP | BOOM (Minimal Wear)",
+            "skin_price": 322.11,
+            "totalStickerPrice": 13.65,
+            "stickers": [
+                {
+                    "name": "Bite Me",
+                    "price": 0.18,
+                    "slot": 1
+                },
+                {
+                    "name": "Maikelele (Foil) | MLG Columbus 2016",
+                    "price": 13.47,
+                    "slot": 2
+                }
+            ],
+            "sticker_value": 0.04,
+            "sticker_craft": false
+        },
+        "cfa19303-7110-4b2c-8f34-e06721a3d3c2": {
+            "skin_name": "StatTrak\u2122 AK-47 | Fuel Injector (Battle-Scarred)",
+            "skin_price": 318.08,
+            "totalStickerPrice": 12.63,
+            "stickers": [
+                {
+                    "name": "Phoenix (Foil)",
+                    "price": 2.25,
+                    "slot": 1
+                },
+                {
+                    "name": "Lucky 13 (Foil)",
+                    "price": 7.76,
+                    "slot": 2
+                },
+                {
+                    "name": "Luck Skill (Foil)",
+                    "price": 2.62,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.04,
+            "sticker_craft": false
+        },
+        "12e64a13-d822-4521-a9db-6377f3b15363": {
+            "skin_name": "StatTrak\u2122 AK-47 | Fuel Injector (Battle-Scarred)",
+            "skin_price": 318.08,
+            "totalStickerPrice": 13.84,
+            "stickers": [
+                {
+                    "name": "Copenhagen Flames (Holo) | Stockholm 2021",
+                    "price": 3.46,
+                    "slot": 1
+                },
+                {
+                    "name": "Copenhagen Flames (Holo) | Stockholm 2021",
+                    "price": 3.46,
+                    "slot": 2
+                },
+                {
+                    "name": "Copenhagen Flames (Holo) | Stockholm 2021",
+                    "price": 3.46,
+                    "slot": 3
+                },
+                {
+                    "name": "Copenhagen Flames (Holo) | Stockholm 2021",
+                    "price": 3.46,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.04,
+            "sticker_craft": true
+        },
+        "147c690a-4123-447a-af7d-a4922e5963b3": {
+            "skin_name": "AK-47 | Case Hardened (Well-Worn)",
+            "skin_price": 296.23,
+            "totalStickerPrice": 10.4,
+            "stickers": [
+                {
+                    "name": "FURIA (Gold) | 2020 RMR",
+                    "price": 1.32,
+                    "slot": 1
+                },
+                {
+                    "name": "FURIA (Gold) | 2020 RMR",
+                    "price": 1.32,
+                    "slot": 2
+                },
+                {
+                    "name": "FURIA (Gold) | 2020 RMR",
+                    "price": 1.32,
+                    "slot": 3
+                },
+                {
+                    "name": "Dragon Lore (Foil)",
+                    "price": 6.44,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.04,
+            "sticker_craft": false
+        },
+        "de7b656c-8d70-4e75-9108-f85d14a4e841": {
+            "skin_name": "AK-47 | Panthera onca (Well-Worn)",
+            "skin_price": 285.47,
+            "totalStickerPrice": 10.68,
+            "stickers": [
+                {
+                    "name": "Virtus.Pro (Holo) | Stockholm 2021",
+                    "price": 2.67,
+                    "slot": 1
+                },
+                {
+                    "name": "Virtus.Pro (Holo) | Stockholm 2021",
+                    "price": 2.67,
+                    "slot": 2
+                },
+                {
+                    "name": "Virtus.Pro (Holo) | Stockholm 2021",
+                    "price": 2.67,
+                    "slot": 3
+                },
+                {
+                    "name": "Virtus.Pro (Holo) | Stockholm 2021",
+                    "price": 2.67,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.04,
+            "sticker_craft": true
+        },
+        "016c6ea8-8b13-4c6a-993a-18397f60b4da": {
+            "skin_name": "M4A4 | Asiimov (Field-Tested)",
+            "skin_price": 264.05,
+            "totalStickerPrice": 10.34,
+            "stickers": [
+                {
+                    "name": "Virtus.Pro (Foil) | Stockholm 2021",
+                    "price": 2.68,
+                    "slot": 1
+                },
+                {
+                    "name": "Virtus.Pro (Foil) | Stockholm 2021",
+                    "price": 2.68,
+                    "slot": 2
+                },
+                {
+                    "name": "Virtus.Pro (Foil) | Stockholm 2021",
+                    "price": 2.68,
+                    "slot": 3
+                },
+                {
+                    "name": "PGL (Gold) | Stockholm 2021",
+                    "price": 2.3,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.04,
+            "sticker_craft": false
+        },
+        "0e5f16b3-7c93-46ef-b080-34ce3ef2fa00": {
+            "skin_name": "M4A1-S | Printstream (Battle-Scarred)",
+            "skin_price": 228.7,
+            "totalStickerPrice": 10.2,
+            "stickers": [
+                {
+                    "name": "Eternal Fire (Holo) | Antwerp 2022",
+                    "price": 3.4,
+                    "slot": 1
+                },
+                {
+                    "name": "Eternal Fire (Holo) | Antwerp 2022",
+                    "price": 3.4,
+                    "slot": 2
+                },
+                {
+                    "name": "Eternal Fire (Holo) | Antwerp 2022",
+                    "price": 3.4,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.04,
+            "sticker_craft": false
+        },
+        "6d857c4e-ee00-43bc-b09d-b0ee8991a80a": {
+            "skin_name": "StatTrak\u2122 AK-47 | Case Hardened (Field-Tested)",
+            "skin_price": 652.05,
+            "totalStickerPrice": 18.5,
+            "stickers": [
+                {
+                    "name": "Stone Scales (Foil)",
+                    "price": 3.7,
+                    "slot": 1
+                },
+                {
+                    "name": "Stone Scales (Foil)",
+                    "price": 3.7,
+                    "slot": 2
+                },
+                {
+                    "name": "Stone Scales (Foil)",
+                    "price": 3.7,
+                    "slot": 3
+                },
+                {
+                    "name": "Stone Scales (Foil)",
+                    "price": 3.7,
+                    "slot": 4
+                },
+                {
+                    "name": "Stone Scales (Foil)",
+                    "price": 3.7,
+                    "slot": 5
+                }
+            ],
+            "sticker_value": 0.03,
+            "sticker_craft": true
+        },
+        "475df3ea-c7e4-4846-a9a8-c9b6ff7403f9": {
+            "skin_name": "AK-47 | Vulcan (Field-Tested)",
+            "skin_price": 371.35,
+            "totalStickerPrice": 11.52,
+            "stickers": [
+                {
+                    "name": "Cloud9 G2A | Cologne 2015",
+                    "price": 2.88,
+                    "slot": 1
+                },
+                {
+                    "name": "Cloud9 G2A | Cologne 2015",
+                    "price": 2.88,
+                    "slot": 2
+                },
+                {
+                    "name": "Cloud9 G2A | Cologne 2015",
+                    "price": 2.88,
+                    "slot": 3
+                },
+                {
+                    "name": "Cloud9 G2A | Cologne 2015",
+                    "price": 2.88,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.03,
+            "sticker_craft": true
+        },
+        "61a7c096-dcae-4364-8aba-a305e22ec9b3": {
+            "skin_name": "AK-47 | Vulcan (Field-Tested)",
+            "skin_price": 371.35,
+            "totalStickerPrice": 11.52,
+            "stickers": [
+                {
+                    "name": "Cloud9 G2A | Cologne 2015",
+                    "price": 2.88,
+                    "slot": 1
+                },
+                {
+                    "name": "Cloud9 G2A | Cologne 2015",
+                    "price": 2.88,
+                    "slot": 2
+                },
+                {
+                    "name": "Cloud9 G2A | Cologne 2015",
+                    "price": 2.88,
+                    "slot": 3
+                },
+                {
+                    "name": "Cloud9 G2A | Cologne 2015",
+                    "price": 2.88,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.03,
+            "sticker_craft": true
+        },
+        "8f634718-00a7-47e0-a9ca-f8921c963681": {
+            "skin_name": "M4A1-S | Printstream (Well-Worn)",
+            "skin_price": 306.06,
+            "totalStickerPrice": 10.13,
+            "stickers": [
+                {
+                    "name": "Kawaii T (Holo)",
+                    "price": 5.31,
+                    "slot": 1
+                },
+                {
+                    "name": "Cloud9 (Glitter) | Antwerp 2022",
+                    "price": 0.5,
+                    "slot": 2
+                },
+                {
+                    "name": "Kawaii CT (Holo)",
+                    "price": 3.75,
+                    "slot": 3
+                },
+                {
+                    "name": "Baby Medusa",
+                    "price": 0.57,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.03,
+            "sticker_craft": false
+        },
+        "521fbe27-c99f-40aa-b18f-5874b6a7c457": {
+            "skin_name": "AK-47 | X-Ray (Field-Tested)",
+            "skin_price": 1013.09,
+            "totalStickerPrice": 22.05,
+            "stickers": [
+                {
+                    "name": "Aerial (Foil) | Katowice 2019",
+                    "price": 2.59,
+                    "slot": 1
+                },
+                {
+                    "name": "Aleksib (Foil) | Katowice 2019",
+                    "price": 6.72,
+                    "slot": 2
+                },
+                {
+                    "name": "Aerial (Foil) | Katowice 2019",
+                    "price": 2.59,
+                    "slot": 3
+                },
+                {
+                    "name": "Aleksib (Gold) | Berlin 2019",
+                    "price": 10.15,
+                    "slot": 4
+                }
+            ],
+            "sticker_value": 0.02,
+            "sticker_craft": false
+        },
+        "d478c86b-8469-4031-8e26-57263ffd17d2": {
+            "skin_name": "M4A1-S | Printstream (Factory New)",
+            "skin_price": 675.57,
+            "totalStickerPrice": 11.79,
+            "stickers": [
+                {
+                    "name": "9z Team (Holo) | Antwerp 2022",
+                    "price": 3.93,
+                    "slot": 1
+                },
+                {
+                    "name": "9z Team (Holo) | Antwerp 2022",
+                    "price": 3.93,
+                    "slot": 2
+                },
+                {
+                    "name": "9z Team (Holo) | Antwerp 2022",
+                    "price": 3.93,
+                    "slot": 3
+                }
+            ],
+            "sticker_value": 0.02,
+            "sticker_craft": false
+        },
+        "66126fea-003e-47c1-a385-adfda2e49123": {
+            "skin_name": "AK-47 | B the Monster (Field-Tested)",
+            "skin_price": 448.72,
+            "totalStickerPrice": 10.37,
+            "stickers": [
+                {
+                    "name": "Googly Eye (Lenticular)",
+                    "price": 10.37,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 0.02,
+            "sticker_craft": false
+        },
+        "57b07bca-2665-4952-a6bb-a80f74875866": {
+            "skin_name": "M4A1-S | Welcome to the Jungle (Battle-Scarred)",
+            "skin_price": 900.55,
+            "totalStickerPrice": 11.87,
+            "stickers": [
+                {
+                    "name": "Health (Gold)",
+                    "price": 11.87,
+                    "slot": 1
+                }
+            ],
+            "sticker_value": 0.01,
+            "sticker_craft": false
+        }
+    }
+}

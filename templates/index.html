@@ -1,0 +1,262 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        .skin {
+            margin-bottom: 20px;
+        }
+        .sticker {
+            margin-left: 20px;
+        }
+        #scanningMessage {
+            display: none;
+            font-weight: bold;
+        }
+        .scanning-animation::after {
+        content: 'Scanning';
+        animation: dots 4.5s steps(1, end) infinite;
+        }
+        @keyframes dots {
+            0%, 20% {
+                content: 'Scanning';
+            }
+            40% {
+                content: 'Scanning.';
+            }
+            60% {
+                content: 'Scanning..';
+            }
+            80%, 100% {
+                content: 'Scanning...';
+            }
+        }
+    </style>
+    <script src="https://unpkg.com/htmx.org@2.0.4" integrity="sha384-HGfztofotfshcF7+8n44JQL2oJmowVChPTg48S+jvZoztPfvwD79OC/LTtG6dMp+" crossorigin="anonymous"></script>
+
+</head>
+<body onload="getNotificationPermission()">
+
+<div id="scanningMessage"></div>
+<br>
+<label for="maxPrice">Max skin price in $:</label>
+<input type="number" id="maxPrice" name="maxPrice" value="10000">
+<br>
+<label for="minTotalStickerPrice">Minimum total sticker price in $:</label>
+<input type="number" id="minTotalStickerPrice" name="minTotalStickerPrice" value="10">
+<br>
+<label for="minSkinPrice">Minimum skin price in $:</label>
+<input type="number" id="minSkinPrice" name="minSkinPrice" value="1">
+<br>
+<input type="checkbox" id="sticker_craft" name="sticker_craft" value="sticker_craft">
+<label for="sticker_craft">Sticker craft</label><br>
+<button id="scan">Scan</button>
+
+<button id="refresh">Refresh</button>
+<br>
+
+<div id="response"></div>
+<script>
+    document.getElementById('scan').addEventListener('click', scan);
+    document.getElementById('refresh').addEventListener('click', function() {
+      refresh();
+    });
+
+    document.getElementById('sticker_craft').addEventListener('click', function() {
+      refresh();
+    });
+    function scan(){
+        var maxPrice = document.getElementById('maxPrice').value;
+        var minTotalStickerPrice = document.getElementById('minTotalStickerPrice').value;
+        var xhr = new XMLHttpRequest();
+        xhr.open('POST', '/scan', true);
+        xhr.setRequestHeader('Content-Type', 'application/json');
+        xhr.send(JSON.stringify({maxPrice: maxPrice, minTotalStickerPrice: minTotalStickerPrice}));
+
+        // Show scanning message
+        var scanningMessageElement = document.getElementById('scanningMessage');
+        if (scanningMessageElement) {
+            scanningMessageElement.innerText = '';
+            scanningMessageElement.classList.add('scanning-animation');
+            scanningMessageElement.style.display = 'block';
+        }
+
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4) {
+                if (xhr.status === 200) {
+                    var response = JSON.parse(xhr.responseText);
+                    if (scanningMessageElement) {
+                        scanningMessageElement.innerText = response.message.replace(/\*\*/g, '');
+                        scanningMessageElement.classList.remove('scanning-animation');
+                        refresh();
+                        post_notify(response.message);
+                    }
+                    console.log(xhr.responseText);
+                } else {
+                    if (scanningMessageElement) {
+                        scanningMessageElement.innerText = 'Error occurred, please wait then try again';
+                        scanningMessageElement.style.display = 'none';
+                    }
+                }
+            }
+        };
+    }
+    function refresh(){
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', '/refresh', true);
+        xhr.onreadystatechange = function () {
+            if (!(xhr.readyState === 4 && xhr.status === 200)) {
+                return;
+            }
+            var minPrice = document.getElementById('minSkinPrice').value;
+            var minTotalStickerPrice = document.getElementById('minTotalStickerPrice').value;
+            var sticker_craft = document.getElementById('sticker_craft').checked;
+            var jsonResponse = JSON.parse(xhr.responseText);
+            var interistingItems = [];
+            var stickerCrafts = [];
+
+            if (sticker_craft === true) {
+                var sortedItems = Object.values(jsonResponse.items)
+                    .filter(item => item.skin_price >= minPrice).filter(item => item.totalStickerPrice >= minTotalStickerPrice).filter(item => item.sticker_craft === true)
+                    .sort((a, b) => b.sticker_value - a.sticker_value);
+            } else
+            {
+                var sortedItems = Object.values(jsonResponse.items)
+                    .filter(item => item.skin_price >= minPrice).filter(item => item.totalStickerPrice >= minTotalStickerPrice)
+                    .sort((a, b) => b.sticker_value - a.sticker_value);
+            }
+            var displayText = '';
+            sortedItems.forEach(function (item) {
+                displayText += '<div class="skin"><strong>Skin Name:</strong> ' + item.skin_name + '<br>';
+                displayText += 'Skin Price: ' + item.skin_price + '$' + '<br>';
+                displayText += 'Total Sticker Price: ' + item.totalStickerPrice + '<br>';
+                displayText += 'Sticker Value: ' + item.sticker_value + '<br>';
+                displayText += 'Stickers:<div class="sticker">';
+                item.stickers.forEach(function (sticker) {
+                    displayText += '<div><strong>Name:</strong> ' + sticker.name + '<br>';
+                    displayText += 'Price: ' + sticker.price + '$' + '<br>';
+                    displayText += 'Slot: ' + sticker.slot + '</div>';
+                });
+                displayText += '</div></div><br>'; // Close the sticker and skin divs properly
+
+
+            document.getElementById('response').innerHTML = displayText;
+        });
+        }
+        xhr.send();
+    }
+
+    function post_notify(message) {
+        console.log("Notification function called");
+        var date = Date.now();
+        var time = new Date(date).toLocaleTimeString();
+
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', '/refresh', true);
+        xhr.onreadystatechange = function () {
+            if (!(xhr.readyState === 4 && xhr.status === 200)) {
+                return;
+            }
+
+            var jsonResponse = JSON.parse(xhr.responseText);
+            var minPrice = document.getElementById('minSkinPrice').value;
+            var minTotalStickerPrice = document.getElementById('minTotalStickerPrice').value;
+            var notificationdone = false;
+            var sortedItems = Object.values(jsonResponse.items).filter(item => item.skin_price >= minPrice).filter(item => item.totalStickerPrice >= minTotalStickerPrice)
+                .sort((a, b) => b.sticker_value - a.sticker_value);
+            console.log("sorted items: ", sortedItems);
+            sortedItems.forEach(function (item) {
+                if (item.sticker_value >= 20 && item.skin_price >= 1 && item.sticker_craft === false) {
+                    browser_notify(item, time);
+                    discord_notify(item, time);
+                    notificationdone = true;
+                } else if (item.sticker_value >= 6 && item.skin_price >= 5 && item.sticker_craft === false) {
+                    browser_notify(item, time);
+                    discord_notify(item, time);
+                    notificationdone = true;
+                } else if (item.sticker_craft === true && item.sticker_value >= 1.5 && item.skin_price >= 10) {
+                    browser_notify(item, time);
+                    discord_notify(item, time);
+                    notificationdone = true;
+                } else if (item.sticker_craft === true && item.sticker_value >= 2.5 && item.skin_price >= 5) {
+                    browser_notify(item, time);
+                    discord_notify(item, time);
+                    notificationdone = true;
+                } else {
+                }
+            });
+            if (notificationdone === false) {
+                discord_notify_nothing_found(message, time);
+            }
+
+
+        }
+        xhr.send();
+    }
+
+    function browser_notify(item, time){
+        if (getNotificationPermission()) {
+              if (item.sticker_craft === true) {
+            var title = 'Sticker Craft Found!';
+            var body = 'Skin: ' + item.skin_name + ' has a sticker craft value of ' + item.sticker_value + ' at: ' + time;
+
+        } else {
+            var title = 'High Sticker Value Found!';
+            var body = 'Skin: ' + item.skin_name + ' has a sticker value of ' + item.sticker_value + ' at: ' + time;
+        }
+            var notification = new Notification(title, {body: body});
+        }
+    }
+    function discord_notify_nothing_found(message,time){
+        console.log("Nothing interesting found, function called");
+
+        var xhr = new XMLHttpRequest();
+        xhr.open('POST', '/discord_notify', true);
+        xhr.setRequestHeader('Content-Type', 'application/json');
+        xhr.send(JSON.stringify({message: message}));
+    }
+
+    function discord_notify(item, time){
+        if (item.sticker_craft === true) {
+            var title = 'Sticker Craft Found!';
+            var body = 'Skin: ' + item.skin_name + ' has a sticker craft value of ' + item.sticker_value + ' at: ' + time;
+
+        } else {
+            var title = 'High Sticker Value Found!';
+            var body = 'Skin: ' + item.skin_name + ' has a sticker value of ' + item.sticker_value + ' at: ' + time + '\n';
+        }
+        var message = title + '\n' + body;
+        item.stickers.forEach(function (sticker) {
+            message += '    - Name: ' + sticker.name + '\n';
+            message += '    - Price: ' + sticker.price + '$' + '\n';
+        });
+        var xhr = new XMLHttpRequest();
+        xhr.open('POST', '/discord_notify', true);
+        xhr.setRequestHeader('Content-Type', 'application/json');
+        xhr.send(JSON.stringify({message: message}));
+    }
+
+    function getNotificationPermission(){
+        if (Notification.permission === 'granted') {
+            return true;
+        }
+        if (Notification.permission !== 'denied') {
+            Notification.requestPermission().then(permission => {
+                if (permission === 'granted') {
+                    return true;
+                }
+            });
+        }
+        return false;
+    }
+    // Scanning every 5 minutes
+    var randInterval = Math.floor(Math.random() * (120000 - 180000 + 1)) + 240000;
+    setInterval(scan, randInterval);
+
+</script>
+</body>
+</html>
