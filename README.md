@@ -1,8 +1,8 @@
-This project uses the website Pirateswap.com which is a Counter strike Skins trading website. 
-The website is automated with bots with a markup on their own items making profit on each trade, though they don't account for stickers that are applied to the item skins. 
-The stickers total value applied to a sticker can not be removed but their value can grant overpay on P2P marketplaceses. 
+Django-appen scanner efter skins med klistermærker og sorterer dem efter forholdet mellem samlet klistermærkeværdi og itemværdi.
+Der er indbygget Discord- og browser-notifikationer, hvis et item vurderes som profitabelt at videresælge (opfylder en bestemt grænse).
+En simpel webapp viser de fundne items med størst profitpotentiale øverst.
+Priserne på både klistermærker og items kan opdateres manuelt gennem indbyggede metoder.
 
-The Django App scouts for skins with stickers applied to them and sorts them by total sticker value / item value. 
-There is built in Discord and browser notification if an item is deemed profitable for a flip, (meeting a certain threshold).
-A simple web app lists the items found with most potential for a flip highest.
-The prices of stickers and Items can be updated through methods that have to be manually executed.
+Dette projekt bruger websitet PirateSwap.com, som er en handelsplatform for Counter-Strike-skins.
+Websitet er automatiseret med bots, der tilføjer et lille pristillæg på deres egne items for at tjene penge på hver handel. Dog tager de ikke højde for klistermærker (stickers), der sidder på våbenskins.
+Klistermærkerne kan ikke fjernes, men deres samlede værdi kan give ekstra betaling (overpay) på P2P-markedspladser.
