@@ -1,0 +1,12 @@
+# Python virtual environment folders
+venv/
+env/
+.venv/
+.env/
+
+*.pyc
+__pycache__/
+.envrc
+.DS_Store
+.idea/
+.vscode/
